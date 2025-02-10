@@ -18,7 +18,7 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Seconde ')">Seconde</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
-   <button class="w3-bar-item w3-button" onclick="openCity('fr')">Français Première-BAC</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
 </div>
 
 <div id="Seconde" class="w3-container city">
@@ -34,23 +34,23 @@
 <div id="Terminale" class="w3-container city" style="display:none">
  <h2>Equations différentielles</h2>
     <ol>
-      <li><a href="mat/equadif.pdf" dowload=""><h2>Cours-Equations differentielles<h2></a></li>
-      <li><a href="TD.pdf" dowload=""><h2>TD-Equations differentielles<h2></a></li>
-      <li><a href="TD-correction.pdf" dowload=""><h2>Correction-Equations differentielles<h2></a></li>
+      <li><a href="mat/equadif.pdf" dowload=""><h2>Cours-Equations differentielles</h2></a></li>
+      <li><a href="TD.pdf" dowload=""><h2>TD-Equations differentielles</h2></a></li>
+      <li><a href="TD-correction.pdf" dowload=""><h2>Correction-Equations differentielles</h2></a></li>
    </ol>
   <p></p>
 </div>
 
-<div id="fr" class="w3-container city">
+<div id="Français" class="w3-container city">
   <h1>Français- Première - BAC<h1>
     <h2>- Programme officiel- Français pour  2024-2025</h2>
-    <br><a href="2024-2025.pdf" dowload=""><h2>Les œuvres au programme<h2></a>
+    <br><a href="2024-2025.pdf" dowload=""><h2>Les œuvres au programme</h2></a>
     <br>
     <h2>Arthur RIMBAUD, <i>Cahier de Douai</i></h2>
-    <br><a href="Rimbaud-Cahier_de_Douai.pdf" dowload=""><h2>Présentation de l'œuvre-1<h2></a>
+    <br><a href="Rimbaud-Cahier_de_Douai.pdf" dowload=""><h2>Présentation de l'œuvre-1</h2></a>
     <p>--</p> 
     <h2>Sujets de dissertation</h2>
-    <br><a href="Sujet_de_dissertation.pdf" dowload=""><h2>Présentation de l'œuvre-1<h2></a>
+    <br><a href="Sujet_de_dissertation.pdf" dowload=""><h2>Présentation de l'œuvre-1</h2></a>
 </div>
 
 
