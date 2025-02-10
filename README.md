@@ -31,7 +31,7 @@
   <p>--</p> 
 </div>
 
-<div id="Terminale G" class="w3-container city" style="display:none">
+<div id="Terminale" class="w3-container city" style="display:none">
  <h2>Equations différentielles</h2>
     <ol>
       <li><a href="mat/equadif.pdf" dowload=""><h2>Cours-Equations differentielles<h2></a></li>
@@ -39,8 +39,6 @@
       <li><a href="TD-correction.pdf" dowload=""><h2>Correction-Equations differentielles<h2></a></li>
    </ol>
   <p></p>
-
-
 </div>
 
 <div id="fr" class="w3-container city">
@@ -53,7 +51,6 @@
     <p>--</p> 
     <h2>Sujets de dissertation</h2>
     <br><a href="Sujet_de_dissertation.pdf" dowload=""><h2>Présentation de l'œuvre-1<h2></a>
-
 </div>
 
 
