@@ -32,7 +32,7 @@
 </div>
 
 <div id="Terminale" class="w3-container city" style="display:none">
- <h2>Equations différentielles</h2>
+ <h3>Equations différentielles</h3>
     <ul>
       <li><a href="mat/equadif.pdf" dowload=""><h2>Cours-Equations differentielles</h2></a></li>
       <li><a href="TD.pdf" dowload=""><h2>TD-Equations differentielles</h2></a></li>
@@ -42,15 +42,13 @@
 </div>
 
 <div id="Français" class="w3-container city" style="display:none">
-  <h1>Français- Première - BAC<h1>
-    <h2>- Programme officiel- Français pour  2024-2025</h2>
-    <br><a href="2024-2025.pdf" dowload=""><h2>Les œuvres au programme</h2></a>
-    <br>
-    <h2>Arthur RIMBAUD, <i>Cahier de Douai</i></h2>
-    <br><a href="Rimbaud-Cahier_de_Douai.pdf" dowload=""><h2>Présentation de l'œuvre-1</h2></a>
-    <p>--</p> 
-    <h2>Sujets de dissertation</h2>
-    <br><a href="Sujet_de_dissertation.pdf" dowload=""><h2>Présentation de l'œuvre-1</h2></a>
+  <h3>Français- Première - BAC<h3>
+    <h4>- Programme officiel- Français pour  2024-2025</h4>
+    <br><a href="fr/2024-2025.pdf" dowload=""><h2>Les œuvres au programme</h2></a>
+    <h4>Arthur RIMBAUD, <i>Cahier de Douai</i></h4>
+    <br><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><h2>Présentation de l'œuvre-1</h2></a>
+    <h4>Sujets de dissertation</h4>
+    <br><a href="fr/Sujet_de_dissertation.pdf" dowload=""><h2>Dissertation</h2></a>
 </div>
 
 
