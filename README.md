@@ -33,15 +33,15 @@
 
 <div id="Terminale" class="w3-container city" style="display:none">
  <h2>Equations différentielles</h2>
-    <ol>
+    <ul>
       <li><a href="mat/equadif.pdf" dowload=""><h2>Cours-Equations differentielles</h2></a></li>
       <li><a href="TD.pdf" dowload=""><h2>TD-Equations differentielles</h2></a></li>
       <li><a href="TD-correction.pdf" dowload=""><h2>Correction-Equations differentielles</h2></a></li>
-   </ol>
+   </ul>
   <p></p>
 </div>
 
-<div id="Français" class="w3-container city">
+<div id="Français" class="w3-container city" style="display:none">
   <h1>Français- Première - BAC<h1>
     <h2>- Programme officiel- Français pour  2024-2025</h2>
     <br><a href="2024-2025.pdf" dowload=""><h2>Les œuvres au programme</h2></a>
