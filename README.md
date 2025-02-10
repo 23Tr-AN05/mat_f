@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
  </head>
  <body>
- <center><p id="para2">Mathémattiques</p></center>
+ <center><p id="para2">Mathématiques</p></center>
  <p id="para3">Sur ce site, vous trouverez les cours de mathématiques, qui peuvent vous servir. En particulier pour ceux qui se préparent au Baccalauréat ou Brevet</p>
  <br>
 <div class="w3-container">
