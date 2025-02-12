@@ -14,18 +14,38 @@
 </div>
 
 <div class="w3-bar w3-black">
-  <button class="w3-bar-item w3-button" onclick="openCity('Seconde')">Seconde</button>
+  <!--<button class="w3-bar-item w3-button" onclick="openCity('Six')">Sixième</button>
+<button class="w3-bar-item w3-button" onclick="openCity('Cinq')">Cinquième</button>
+<button class="w3-bar-item w3-button" onclick="openCity('Quatre')">Quatrième</button>
+<button class="w3-bar-item w3-button" onclick="openCity('Trois')">Troisième</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Seconde')">Seconde</button>-->
   <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
 </div>
 <!--
+<div id="Six" class="w3-container city">
+    <p id="para2">-</p>
+    <p>--</p> 
+</div>
+<div id="Cinq" class="w3-container city">
+    <p id="para2">-</p>
+    <p>--</p> 
+</div>
+<div id="Quatre" class="w3-container city">
+    <p id="para2">-</p>
+    <p>--</p> 
+</div>
+<div id="Tois" class="w3-container city">
+    <p id="para2">-</p>
+    <p>--</p> 
+</div>
 <div id="Seconde" class="w3-container city">
-    <h2>-</h2>
+    <p id="para2">-</p>
     <p>--</p> 
 </div>
 <div id="Première" class="w3-container city" style="display:none">
-  <h2>-</h2>
+  <p id="para2">-</p>
   <p>--</p> 
 </div>-->
 
