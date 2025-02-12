@@ -69,7 +69,7 @@
     </ul>
     <p id="para2">Arthur RIMBAUD, <i>Cahier de Douai</i></p >
         <ul>
-            <li><br><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><p id="para4">Présentation de l'œuvre-1</p></a></li>
+            <li><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><p id="para4">Présentation de l'œuvre-1</p></a></li>
         </ul>    
     <p id="para2">Sujets de dissertation</p>
     <br><a href="fr/Sujet_de_dissertation.pdf" dowload=""><p id="para4">Dissertation</p></a>
