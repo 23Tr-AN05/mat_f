@@ -67,12 +67,18 @@
         <li><a href="fr/2024-2025-G.pdf" dowload=""><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
         <li><p id="para4"><a href="fr/2024-2025-T.pdf" dowload="">Les œuvres au programme de Première Technologique</a></p></li> 
     </ul>
-    <p id="para2">Arthur RIMBAUD, <i>Cahier de Douai</i></p>
+    <p id="para2">-Arthur RIMBAUD, <i>Cahier de Douai</i></p>
         <ul>
             <li><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><p id="para4">Présentation de l'œuvre-1</p></a></li>
         </ul>    
-    <p id="para2">Sujets de dissertation</p>
-    <br><a href="fr/Sujet_de_dissertation.pdf" dowload=""><p id="para4">Dissertation</p></a>
+    <p id="para2">-Sujets de dissertation</p>
+        <ul>
+            <li><a href="fr/Dis-Cahier_de_Douai.pdf" dowland=""><p id="para4">Arthur DIMBAUD, <i> Cahier de Douai</i></p></a><li>
+            <li><a href="fr/Dis-Peau_de_chagrin.pdf" dowland=""><p id="para4">Honoré de Baalzac, <i>La Peau de chagrin</i></p></a> </li>
+            <li><a href="fr/Dis-DDFC.pdf" dowland=""><p id="para4">Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a>    </li>
+            <!--<li>    </li>-->
+        </ul>
+    <hr>
  </div>
 
 
