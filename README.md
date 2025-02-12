@@ -74,7 +74,7 @@
     <p id="para2">-Sujets de dissertation</p>
         <ul>
             <li><a href="fr/Dis-Cahier_de_Douai.pdf" dowland=""><p id="para4">Arthur DIMBAUD, <i> Cahier de Douai</i></p></a></li>
-            <li><a href="fr/Dis-Peau_de_chagrin.pdf" dowland=""><p id="para4">Honoré de Baalzac, <i>La Peau de chagrin</i></p></a> </li>
+            <li><a href="fr/Dis-Peau_de_chagrin.pdf" dowland=""><p id="para4">Honoré de Balzac, <i>La Peau de chagrin</i></p></a> </li>
             <li><a href="fr/Dis-DDFC.pdf" dowland=""><p id="para4">Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a> </li>
             <li><a href="fr/sujet-de-BAC-2024.pdf" dowland=""><p id="para4">Sujets de Bac  de l'épreuve de 2024 </p></a> </li>
          </ul>
