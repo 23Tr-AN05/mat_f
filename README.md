@@ -15,24 +15,23 @@
 </div>
 
 <div class="w3-bar w3-black">
-  <button class="w3-bar-item w3-button" onclick="openCity('Seconde ')">Seconde</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Seconde')">Seconde</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
 </div>
-
+<!--
 <div id="Seconde" class="w3-container city">
     <h2>-</h2>
     <p>--</p> 
 </div>
-
-<div id="Premère" class="w3-container city" style="display:none">
+<div id="Première" class="w3-container city" style="display:none">
   <h2>-</h2>
   <p>--</p> 
-</div>
+</div>-->
 
 <div id="Terminale" class="w3-container city" style="display:none">
- <h3>Equations différentielles</h3>
+ <p id="para1">Equations différentielles</p>
     <ul>
       <li><a href="mat/equadif.pdf" dowload=""><h2>Cours-Equations differentielles</h2></a></li>
       <li><a href="TD.pdf" dowload=""><h2>TD-Equations differentielles</h2></a></li>
@@ -42,12 +41,15 @@
 </div>
 
 <div id="Français" class="w3-container city" style="display:none">
-  <h3>Français- Première - BAC<h3>
-    <h4>- Programme officiel- Français pour  2024-2025</h4>
-    <br><a href="fr/2024-2025.pdf" dowload=""><h2>Les œuvres au programme</h2></a>
-    <h4>Arthur RIMBAUD, <i>Cahier de Douai</i></h4>
+  <center><p id="para1">Français- Première - BAC</p></center>
+  <p id="para4">- Programme officiel- Français pour  2024-2025</p id="para4">
+    <ul>
+        <li><a href="fr/2024-2025-G.pdf" dowload=""><h2>Les œuvres au programme de Première Générale</h2></a></li>
+        <li><a href="fr/2024-2025-T.pdf" dowload=""><h2>Les œuvres au programme de Première Technologique</h2></a></li> 
+    </ul>
+    <p id="para4">Arthur RIMBAUD, <i>Cahier de Douai</i></p id="para4">
     <br><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><h2>Présentation de l'œuvre-1</h2></a>
-    <h4>Sujets de dissertation</h4>
+    <p id="para4">Sujets de dissertation</p id="para4">
     <br><a href="fr/Sujet_de_dissertation.pdf" dowload=""><h2>Dissertation</h2></a>
 </div>
 
