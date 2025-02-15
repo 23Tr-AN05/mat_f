@@ -53,7 +53,7 @@
  <p id="para1">Terminale Générale</p>
  <p id="para6">Equations différentielles</p>
     <ul>
-      <li><a href="mat/Cours-equations_differentielle.pdf" dowload=""><p id="para4">Cours-Equations differentielles</p></a></li>
+      <li><a href="mat/Cours-equations_differentielles.pdf" dowload=""><p id="para4">Cours-Equations differentielles</p></a></li>
       <li><a href="mat/TD-equations_differentielles.pdf" dowload=""><p id="para4">TD-Equations differentielles</p></a></li>
       <li><a href="mat/TD-equations_differentielles-correction.pdf" dowload=""><p id="para4">Correction-Equations differentielles</p></a></li>
    </ul>
