@@ -31,7 +31,7 @@
   <p id="para2">-</p>
   <p>--</p> 
   <hr>
-</div>-->
+</div>
 <!--
 <div id="Six" class="w3-container city">
     <p id="para2">-</p>
@@ -102,7 +102,7 @@
             <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
          </ul>  
-         <p id="para2">-Abbé Prévost, <i>La DDFC</i></p>
+         <p id="para2">-Olympe de Gouges, <i>La DDFC</i></p>
         <ul>
             <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
