@@ -62,6 +62,8 @@
 
 <div id="Français" class="w3-container city" style="display:none">
   <center><p id="para1">Français- Première - BAC</p></center>
+  <p id="para3" style="border: 1px solid black; padding: 10px;"> ⨝Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/">CNRTL</a>, un dictionnaire en ligne (une référence des plupart des proffesseur) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/">WordReference</a>
+  <br> Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions). Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.</p>
   <p id="para2">- Programme officiel- Français pour  2024-2025</p>
     <ul>
         <li><a href="fr/2024-2025-G.pdf" dowload=""><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
@@ -69,16 +71,17 @@
     </ul>
     <p id="para2">-Arthur RIMBAUD, <i>Cahier de Douai</i></p>
         <ul>
-            <li><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><p id="para4">Présentation de l'œuvre-1</p></a></li>
+            <li><a href="fr/Douai/Rimbaud-Cahier_de_Douai.pdf" dowload=""><p id="para4">Présentation de l'œuvre-1</p></a></li>
             <!--<li><a href="fr/" dowland=""><p id="para4">Biographie de l'auteur-2</p></a></li>-->
         </ul>    
-    <!--<p id="para2">-Abbé Prévost, <i>Manon Lescaut</i></p>
+    <p id="para2">-Abbé Prévost, <i>Manon Lescaut</i></p>
         <ul>
-            <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
-            <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
-            <li><a href="fr/ .pdf" dowload=""><p id="para4">Structure del'œuvre-3 </p></a></li>
+            <li><a href="fr/Lescaut/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/Lescaut/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
+            <li><a href="fr/Lescaut/ .pdf" dowload=""><p id="para4">Structure del'œuvre-3 </p></a></li>
+            <li><a href="fr/Lescaut/Cit-Manon_Lescaut.pdf" dowload=""><p id="para4">Quelques citations -S4</p></a></li>
         </ul> 
-        <p id="para2">-Honoré de Balzac, <i>La Peau de chagrin</i></p>
+        <!--<p id="para2">-Honoré de Balzac, <i>La Peau de chagrin</i></p>
         <ul>
             <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
@@ -90,9 +93,10 @@
          </ul>     -->
     <p id="para2">-Sujets de dissertation</p>
         <ul>
-            <li><a href="fr/Dis-Cahier_de_Douai.pdf" dowland=""><p id="para4">Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
-            <li><a href="fr/Dis-Peau_de_chagrin.pdf" dowland=""><p id="para4">Honoré de Balzac, <i>La Peau de chagrin</i></p></a> </li>
-            <li><a href="fr/Dis-DDFC.pdf" dowland=""><p id="para4">Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a> </li>
+            <li><a href="fr/Douai/Dis-Cahier_de_Douai.pdf" dowland=""><p id="para4">Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
+            <li><a href="fr/Chagrin/Dis-Peau_de_chagrin.pdf" dowland=""><p id="para4">Honoré de Balzac, <i>La Peau de chagrin</i></p></a> </li>
+            <li><a href="fr/DDFC/Dis-DDFC.pdf" dowland=""><p id="para4">Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a> </li>
+            <!--<li><a href="fr/Lescaut/Dis-Manon_Lescaut.pdf" dowland=""><p id="para4">Abbé Prévost, <i>Manon Lescaut </i></p></a> </li>-->
             <li><a href="fr/sujet-de-BAC-2024.pdf" dowland=""><p id="para4">Sujets de Bac  de l'épreuve de 2024 </p></a> </li>
          </ul>
     <hr>
