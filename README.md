@@ -1,4 +1,4 @@
-<html>;
+<html>
  <title>Mathématiques</title>
  <head>
     <meta charset="utf-8"/>
