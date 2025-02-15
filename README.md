@@ -16,39 +16,52 @@
 </div>
 
 <div class="w3-bar w3-black">
+  <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
   <!--<button class="w3-bar-item w3-button" onclick="openCity('Six')">Sixième</button>
-<button class="w3-bar-item w3-button" onclick="openCity('Cinq')">Cinquième</button>
-<button class="w3-bar-item w3-button" onclick="openCity('Quatre')">Quatrième</button>
-<button class="w3-bar-item w3-button" onclick="openCity('Trois')">Troisième</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Cinq')">Cinquième</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Quatre')">Quatrième</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Trois')">Troisième</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Seconde')">Seconde</button>-->
   <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
+  <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>-->
 </div>
+<div id="Ac" class="w3-container city" style="display:none">
+  <p id="para2">-</p>
+  <p>--</p> 
+  <hr>
+</div>-->
 <!--
 <div id="Six" class="w3-container city">
     <p id="para2">-</p>
     <p>--</p> 
+ <hr> 
 </div>
 <div id="Cinq" class="w3-container city">
     <p id="para2">-</p>
     <p>--</p> 
+  <hr>
 </div>
 <div id="Quatre" class="w3-container city">
     <p id="para2">-</p>
     <p>--</p> 
+  <hr>
 </div>
 <div id="Tois" class="w3-container city">
     <p id="para2">-</p>
     <p>--</p> 
+  <hr>
 </div>
 <div id="Seconde" class="w3-container city">
     <p id="para2">-</p>
     <p>--</p> 
+  <hr>
 </div>
 <div id="Première" class="w3-container city" style="display:none">
   <p id="para2">-</p>
   <p>--</p> 
+  <hr>
 </div>-->
 
 <div id="Terminale" class="w3-container city" style="display:none">
@@ -60,6 +73,7 @@
       <li><a href="mat/Tle/ED/TD-equations_differentielles-correction.pdf" dowload=""><p id="para4">Correction-Equations differentielles</p></a></li>
    </ul>
   <p></p>
+  <hr>
 </div>
 
 <div id="Français" class="w3-container city" style="display:none">
@@ -103,6 +117,11 @@
          </ul>
     <hr>
  </div>
+ <!--<div id="Info" class="w3-container city" style="display:none">
+  <p id="para2">-</p>
+  <p>--</p> 
+  <hr>
+</div>-->
 
 
 
