@@ -1,5 +1,6 @@
-<html>
- <head><title>Mathématiques</title>
+<html>;
+ <title>Mathématiques</title>
+ <head>
     <meta charset="utf-8"/>
     <link href="style.css" rel="stylesheet" type="text/css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
