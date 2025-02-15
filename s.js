@@ -204,7 +204,7 @@ function build_head (before=before_title) {
     title.text = page_title;
     let favicon = document.createElement("link");
     favicon.setAttribute("rel", "icon");
-    favicon.setAttribute("href", `data:image/svg+xml, <svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22 fill=%22limegreen%22>${icon}</text></svg>`);
+    favicon.setAttribute("href", `data:image/svg+xml, <svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22 fill=%22cyan%22>${icon}</text></svg>`);
     document.head.appendChild(favicon);
     Array.from(document.head.getElementsByTagName("meta")).forEach(function(el){
 	console.log(el); // afaire
@@ -230,7 +230,7 @@ header.innerHTML += `
     <div class="collapse">
         <div class="group">                    
             <div class="item">
-	        <div class="text" style="font-size:larger;font-weight:bold;">Math<span style="color:limegreen;">e</span>matiques</div>
+	        <div class="text" style="font-size:larger;font-weight:bold;">Math<span style="color:cyan;">e</span>matiques</div>
 	        <div class="text">Cours</div>
             </div>
         </div>
