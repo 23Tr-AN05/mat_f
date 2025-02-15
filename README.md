@@ -63,7 +63,7 @@
 
 <div id="Français" class="w3-container city" style="display:none">
   <center><p id="para1">Français- Première - BAC</p></center>
-  <p id="para3" style="border: 1px solid black; padding: 10px;"> ⨝Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/"><font sytle="color:bleu;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des proffesseur) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/"><font sytle="color:bleu;"><u>WordReference</u></font></a></a>
+  <p id="para3" style="border: 1px solid black; padding: 10px;"> ⨝Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/"><font sytle="color:bleu;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des proffesseur) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/"><font sytle="color:bleu;"><u>WordReference</u></font></a>
   <br> ⨝ Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br> Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.</p>
   <p id="para2">- Programme officiel- Français pour  2024-2025</p>
     <ul>
