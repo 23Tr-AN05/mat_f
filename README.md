@@ -53,9 +53,9 @@
  <p id="para1">Terminale Générale</p>
  <p id="para6">Equations différentielles</p>
     <ul>
-      <li><a href="mat/equadif.pdf" dowload=""><p id="para4">Cours-Equations differentielles</p></a></li>
-      <li><a href="TD.pdf" dowload=""><p id="para4">TD-Equations differentielles</p></a></li>
-      <li><a href="TD-correction.pdf" dowload=""><p id="para4">Correction-Equations differentielles</p></a></li>
+      <li><a href="mat/Cours-equations_differentielle.pdf" dowload=""><p id="para4">Cours-Equations differentielles</p></a></li>
+      <li><a href="TD-equations_differentielles.pdf" dowload=""><p id="para4">TD-Equations differentielles</p></a></li>
+      <li><a href="TD-equations_differentielles-correction.pdf" dowload=""><p id="para4">Correction-Equations differentielles</p></a></li>
    </ul>
   <p></p>
 </div>
@@ -70,7 +70,24 @@
     <p id="para2">-Arthur RIMBAUD, <i>Cahier de Douai</i></p>
         <ul>
             <li><a href="fr/Rimbaud-Cahier_de_Douai.pdf" dowload=""><p id="para4">Présentation de l'œuvre-1</p></a></li>
+            <!--<li><a href="fr/" dowland=""><p id="para4">Biographie de l'auteur-2</p></a></li>-->
         </ul>    
+    <!--<p id="para2">-Abbé Prévost, <i>Manon Lescaut</i></p>
+        <ul>
+            <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
+            <li><a href="fr/ .pdf" dowload=""><p id="para4">Structure del'œuvre-3 </p></a></li>
+        </ul> 
+        <p id="para2">-Honoré de Balzac, <i>La Peau de chagrin</i></p>
+        <ul>
+            <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
+         </ul>  
+         <p id="para2">-Abbé Prévost, <i>La DDFC</i></p>
+        <ul>
+            <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
+         </ul>     -->
     <p id="para2">-Sujets de dissertation</p>
         <ul>
             <li><a href="fr/Dis-Cahier_de_Douai.pdf" dowland=""><p id="para4">Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
