@@ -29,7 +29,7 @@
  </div>
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
-  <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir. En particulier pour ceux qui se préparent au Baccalauréat ou Brevet</p>
+  <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir.<br> En particulier pour ceux qui se préparent au Baccalauréat.</p>
  <br>
   <div id="center">
   <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
