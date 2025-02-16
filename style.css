@@ -86,7 +86,14 @@
         font-size:20px;
         text-align:center;
     }
-    
+    #centre {
+        float:right;
+        width:65%;
+        margin : 10px 20px 10px 30px;
+        
+       border-style:solid;
+       border: 0;
+    }
 
 
 .collapsible {

@@ -78,9 +78,10 @@
 
 <div id="Français" class="w3-container city" style="display:none">
   <center><p id="para1">Français- Première - BAC</p></center>
+  <div id="center">
   <p id="para3" style="border: 1px solid black; padding: 10px;"> ⨝Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/"><font sytle="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des proffesseur) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/"><font sytle="color:#0000FF;"><u>WordReference</u></font></a>
   <br> ⨝ Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br> Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
-  <br>⨝ ⨝ S pour "Séance"</p>
+  <br>⨝ ⨝ S pour "Séance"</p></div>
   <p id="para2">- Programme officiel- Français pour  2024-2025</p>
     <ul>
         <li><a href="fr/2024-2025-G.pdf" dowload=""><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
@@ -95,7 +96,7 @@
         <ul>
             <li><a href="fr/Lescaut/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-S1</p></a></li>
             <li><a href="fr/Lescaut/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-S2</p></a></li>
-            <li><a href="fr/Lescaut/ .pdf" dowload=""><p id="para4">Structure de l'œuvre-S3 </p></a></li>
+            <li><a href="fr/Lescaut/Structure-Manon_Lescaut.pdf" dowload=""><p id="para4">Structure de l'œuvre-S3 </p></a></li>
             <li><a href="fr/Lescaut/Cit-Manon_Lescaut.pdf" dowload=""><p id="para4">Quelques citations -S4</p></a></li>
         </ul> 
         <!--<p id="para2">-Honoré de Balzac, <i>La Peau de chagrin</i></p>
@@ -103,9 +104,9 @@
             <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
          </ul>  
-         <p id="para2">-Olympe de Gouges, <i>La DDFC</i></p>
+         <p id="para2">-Olympe de Gouges, <i>La Déclaration des droits de la femme et de la citoyenne</i></p>
         <ul>
-            <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/DDFC/Olympe_de_Gouges-DDFC.pdf" dowload=""><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload=""><p id="para4">Présentation de l'œuvre-2</p></a></li>
          </ul>     -->
     <p id="para2">-Sujets de dissertation</p>
