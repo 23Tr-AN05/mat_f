@@ -9,10 +9,9 @@
  </head>
  <body onload="body()">
  <center><h1 id="h1">Mathématiques</h1></center>
- <p id="para3">Sur ce site, vous trouverez les cours de mathématiques, qui peuvent vous servir. En particulier pour ceux qui se préparent au Baccalauréat ou Brevet</p>
  <br>
  <div class="w3-container">
-  <p>Choisissez une classe</p>
+  
  </div>
 
  <div class="w3-bar w3-black">
@@ -29,12 +28,14 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
  </div>
  <div id="Ac" class="w3-container city">
-  <p id="para2">-</p>
+  <p id="para2">Bienvenue</p>
+  <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir. En particulier pour ceux qui se préparent au Baccalauréat ou Brevet</p>
+ <br>
   <div id="center">
-  <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum" que je mettrais certaines questions avec leur réponse. 
-  <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5Dbody=Ma%20question%20se%20porte%20sur%20les%20mathématiques%20(ne%20changez%20pas%20l'objet%20du%20mail).">Mathémmatiques</a>
-  <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5Dbody=Ma%20question%20se%20porte%20sur%20le%20français%20 ne%20changez%20pas%20l'objet%20du%20mail).">Français</a>
-  <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5Dbody=Ma%20question%20se%20porte%20sur%20le%20français%20 ne%20changez%20pas%20l'objet%20du%20mail).">Je signale une erreur!</a>
+  <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
+  <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5D&body=Ma%20question%20se%20porte%20sur%20les%20mathématiques%20(ne%20changez%20pas%20l'objet%20du%20mail).">Mathémmatiques</a>
+  <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 ne%20changez%20pas%20l'objet%20du%20mail).">Français</a>
+  <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 ne%20changez%20pas%20l'objet%20du%20mail).">Je signale une erreur!</a>
   </p></div>
   <p>--</p> 
   <hr>
