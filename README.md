@@ -29,7 +29,7 @@
 </div>
 <div id="Ac" class="w3-container city">
   <p id="para2">-</p>
-  <p><a href=fichiers_libres/prog_colles/semaine_04.pdf>semaine_04.pdf</a> <a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5J'ai une question%5&body=Ma%20question%20se%20porte%20sur%20les%20mathématique%20(ne%20changez%20pas%20l'objet%20du%20mail.">QUESTION</a></p>
+  <p>Qes de math<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5J'ai une question%5&body=Ma%20question%20se%20porte%20sur%20les%20mathématique%20(ne%20changez%20pas%20l'objet%20du%20mail.">QUESTION</a></p>
   <p>--</p> 
   <hr>
 </div>
