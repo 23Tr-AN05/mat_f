@@ -11,11 +11,11 @@
  <center><h1 id="h1">Mathématiques</h1></center>
  <p id="para3">Sur ce site, vous trouverez les cours de mathématiques, qui peuvent vous servir. En particulier pour ceux qui se préparent au Baccalauréat ou Brevet</p>
  <br>
-<div class="w3-container">
+ <div class="w3-container">
   <p>Choisissez une classe</p>
-</div>
+ </div>
 
-<div class="w3-bar w3-black">
+ <div class="w3-bar w3-black">
   <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
   <!--<button class="w3-bar-item w3-button" onclick="openCity('Six')">Sixième</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Cinq')">Cinquième</button>
@@ -25,9 +25,10 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
-  <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>-->
-</div>
-<div id="Ac" class="w3-container city">
+  <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
+ </div>
+ <div id="Ac" class="w3-container city">
   <p id="para2">-</p>
   <div id="center">
   <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum" que je mettrais certaines questions avec leur réponse. 
@@ -37,43 +38,43 @@
   </p></div>
   <p>--</p> 
   <hr>
-</div>
+ </div>
 
-<!--
-<div id="Six" class="w3-container city" style="display:none">
+ <!--
+ <div id="Six" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
  <hr> 
-</div>
-<div id="Cinq" class="w3-container city" style="display:none"> 
+ </div>
+ <div id="Cinq" class="w3-container city" style="display:none"> 
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
-</div>
-<div id="Quatre" class="w3-container city" style="display:none">
+ </div>
+ <div id="Quatre" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
-</div>
-<div id="Tois" class="w3-container city" style="display:none">
+ </div>
+ <div id="Tois" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
-</div>
-<div id="Seconde" class="w3-container city" style="display:none">
+ </div>
+ <div id="Seconde" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
-</div>
-<div id="Première" class="w3-container city" style="display:none">
+ </div>
+ <div id="Première" class="w3-container city" style="display:none">
   <p id="para2">-</p>
   <p>--</p> 
   <hr>
-</div>-->
+ </div>-->
 
-<div id="Terminale" class="w3-container city" style="display:none">
- <p id="para1">Terminale Générale</p>
- <p id="para6">Equations différentielles</p>
+ <div id="Terminale" class="w3-container city" style="display:none">
+  <p id="para1">Terminale Générale</p>
+  <p id="para6">Equations différentielles</p>
     <ul>
       <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">Cours-Equations differentielles</p></a></li>
       <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">TD-Equations differentielles</p></a></li>
@@ -81,9 +82,9 @@
    </ul>
   <p></p>
   <hr>
-</div>
+ </div>
 
-<div id="Français" class="w3-container city" style="display:none">
+ <div id="Français" class="w3-container city" style="display:none">
   <center><p id="para1">Français- Première - BAC</p></center>
   <div id="center">
   <p id="para33" style="border: 1px solid black; padding: 10px;"> ⨝Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font sytle="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font sytle="color:#0000FF;"><u>WordReference</u></font></a>
@@ -131,20 +132,25 @@
   <p>--</p> 
   <hr>
  </div>-->
+ <!--<div id="Forum" class="w3-container city" style="display:none">
+  <p id="para2">-</p>
+  <p>--</p> 
+  <hr>
+ </div>-->
 
 
-<!--hyperlien 
-<a href="fr/                    .pdf" dowload="" target="_blank">   #Français
-<a href="mat/                  .pdf" dowload="" target="_blank">       #Mathématiques 
--->
+ <!--hyperlien 
+ <a href="fr/                    .pdf" dowload="" target="_blank">   #Français
+ <a href="mat/                  .pdf" dowload="" target="_blank">       #Mathématiques 
+ -->
  
-<script>
-function openCity(cityName) {
+ <script>
+ function openCity(cityName) {
   var i;
   var x = document.getElementsByClassName("city");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
   document.getElementById(cityName).style.display = "block";  
-}
-</script>
+ }
+ </script>
