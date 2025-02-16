@@ -27,33 +27,33 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>-->
 </div>
-<div id="Ac" class="w3-container city" style="display:none">
+<div id="Ac" class="w3-container city">
   <p id="para2">-</p>
   <p>--</p> 
   <hr>
 </div>
 <!--
-<div id="Six" class="w3-container city">
+<div id="Six" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
  <hr> 
 </div>
-<div id="Cinq" class="w3-container city">
+<div id="Cinq" class="w3-container city" style="display:none"> 
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
 </div>
-<div id="Quatre" class="w3-container city">
+<div id="Quatre" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
 </div>
-<div id="Tois" class="w3-container city">
+<div id="Tois" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
 </div>
-<div id="Seconde" class="w3-container city">
+<div id="Seconde" class="w3-container city" style="display:none">
     <p id="para2">-</p>
     <p>--</p> 
   <hr>
