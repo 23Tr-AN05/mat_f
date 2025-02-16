@@ -86,15 +86,15 @@
         font-size:20px;
         text-align:center;
     }
-    #centre {
+  #centre {
         float:right;
         width:65%;
         margin : 10px 20px 10px 30px;
         
        border-style:solid;
        border: 0;
-    }
-    #para33{
+  }
+ #para33{
         font-size:20px;
         text-align:left;
         color:#000000;
@@ -102,7 +102,7 @@
         width:100%;
         height:100%;
         overflow:auto;
-    }
+  }
 
 
     

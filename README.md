@@ -29,10 +29,16 @@
 </div>
 <div id="Ac" class="w3-container city">
   <p id="para2">-</p>
-  <p>Qes de math<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5J'ai une question%5&body=Ma%20question%20se%20porte%20sur%20les%20mathématique%20(ne%20changez%20pas%20l'objet%20du%20mail.">QUESTION</a></p>
+  <div id="center">
+  <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum" que je mettrais certaines questions avec leur réponse. 
+  <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5Dbody=Ma%20question%20se%20porte%20sur%20les%20mathématiques%20(ne%20changez%20pas%20l'objet%20du%20mail).">Mathémmatiques</a>
+  <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5Dbody=Ma%20question%20se%20porte%20sur%20le%20français%20 ne%20changez%20pas%20l'objet%20du%20mail).">Français</a>
+  <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BJ'ai une question%5Dbody=Ma%20question%20se%20porte%20sur%20le%20français%20 ne%20changez%20pas%20l'objet%20du%20mail).">Je signale une erreur!</a>
+  </p></div>
   <p>--</p> 
   <hr>
 </div>
+
 <!--
 <div id="Six" class="w3-container city" style="display:none">
     <p id="para2">-</p>
