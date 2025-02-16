@@ -29,6 +29,7 @@
 </div>
 <div id="Ac" class="w3-container city">
   <p id="para2">-</p>
+  <p><a href=fichiers_libres/prog_colles/semaine_04.pdf>semaine_04.pdf</a> <a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D%20semaine_04.pdf&body=Décrivez%20l'erreur%20ci-dessous,%20sans%20changer%20l'objet%20du%20mail.">QUESTION</a></p>
   <p>--</p> 
   <hr>
 </div>
