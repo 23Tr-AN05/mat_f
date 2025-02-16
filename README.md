@@ -88,9 +88,9 @@
  <div id="Français" class="w3-container city" style="display:none">
   <center><p id="para1">Français- Première - BAC</p></center>
   <div id="center">
-  <p id="para33" style="border: 1px solid black; padding: 10px;"> ⨝Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font sytle="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font sytle="color:#0000FF;"><u>WordReference</u></font></a>
-  <br> ⨝ Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br>Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
-  <br>⨝ ⨝ S pour "Séance"</p></div>
+  <p id="para33" style="border: 1px solid black; padding: 10px;"> <font style="color:#FF10FF;">⨝</font>Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font style="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font style="color:#0000FF;"><u>WordReference</u></font></a>
+  <br><font style="color:#0CF0FF;"> ⨝</font> Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br>Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
+  <br<font style="color:#AAAAAA;">>⨝ ⨝</font> S pour "Séance"</p></div>
   <p id="para2">- Programme officiel- Français pour  2024-2025</p>
     <ul>
         <li><a href="fr/2024-2025-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
