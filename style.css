@@ -94,7 +94,15 @@
        border-style:solid;
        border: 0;
     }
+    #para33{
+        font-size:20px;
+        text-align:left;
+        color:#000000;
+        text-align:justify; 
+    }
 
+
+    
 
 .collapsible {
   background-color: #A1FCDC;
