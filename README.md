@@ -84,7 +84,7 @@
   <br>⨝ ⨝ S pour "Séance"</p></div>
   <p id="para2">- Programme officiel- Français pour  2024-2025</p>
     <ul>
-        <li><a href="fr/2024-2025-G.pdf" dowload=""><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
+        <li><a href="fr/2024-2025-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
         <li><p id="para4"><a href="fr/2024-2025-T.pdf" dowload="">Les œuvres au programme de Première Technologique</a></p></li> 
     </ul>
     <p id="para2">-Arthur RIMBAUD, <i>Cahier de Douai</i></p>
