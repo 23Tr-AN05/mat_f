@@ -113,12 +113,12 @@
         <ul>
             <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
-         </ul>  
+         </ul>  -->
          <p id="para2">-Olympe de Gouges, <i>La Déclaration des droits de la femme et de la citoyenne</i></p>
         <ul>
             <li><a href="fr/DDFC/Olympe_de_Gouges-DDFC.pdf" dowload="" target="_blank"><p id="para4">Présentation de Parcours-1</p></a></li>
-            <li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
-         </ul>     -->
+            <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>-->
+         </ul>    
     <p id="para2">-Sujets de dissertation</p>
         <ul>
             <li><a href="fr/Douai/Dis-Cahier_de_Douai.pdf" dowland="" target="_blank"><p id="para4">Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
