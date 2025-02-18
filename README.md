@@ -5,6 +5,8 @@
     <link href="style.css" rel="stylesheet" type="text/css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
     <script src="s.js" data-import=""></script>
  </head>
  <body onload="body()">
@@ -76,17 +78,17 @@
 
  <div id="Terminale" class="w3-container city" style="display:none">
   <p id="para1">Terminale Générale</p>
-  <p id="para6">Equations différentielles</p>
+  <p id="para6">📁  Equations différentielles</p>
     <ul>
-      <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">Cours-Equations differentielles</p></a></li>
-      <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">TD-Equations differentielles</p></a></li>
-      <li><a href="mat/Tle/ED/TD-equations_differentielles-correction.pdf" dowload="" target="_blank"><p id="para4">Correction-Equations differentielles</p></a></li>
+      <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
+      <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
+      <li><a href="mat/Tle/ED/TD-equations_differentielles-correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
    </ul>
   <p></p>
   <hr>
  </div>
 
- <div id="Français" class="w3-container city" style="display:none">
+ <div id="Français" class="w3-container city" style="display:none"> <div class="w3-container">
   <center><p id="para1">Français- Première - BAC</p></center>
   <div id="center">
   <p id="para33" style="border: 1px solid black; padding: 10px;"> <font style="color:#FF10FF;">⨝</font>Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font style="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font style="color:#0000FF;"><u>WordReference</u></font></a>
@@ -120,17 +122,19 @@
             <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
             <li><a href="fr/Lescaut/Structure-DDFC.pdf" dowload="" target="_blank"><p id="para4">Structure de l'œuvre-S3 </p></a></li>
             <li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
-         </ul>    
-    <p id="para2">-Sujets de dissertation</p>
-        <ul>
+         </ul> 
+    <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁-Sujets de dissertation</p></button>
+     <div id="Demo1" class="w3-hide w3-container w3-light-grey">    
+            <ul>
             <li><a href="fr/Douai/Dis-Cahier_de_Douai.pdf" dowland="" target="_blank"><p id="para4">Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
             <li><a href="fr/Chagrin/Dis-Peau_de_chagrin.pdf" dowland="" target="_blank"><p id="para4">Honoré de Balzac, <i>La Peau de chagrin</i></p></a> </li>
             <li><a href="fr/DDFC/Dis-DDFC.pdf" dowland="" target="_blank"><p id="para4">Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a> </li>
             <li><a href="fr/Lescaut/Dis-Manon_Lescaut.pdf" dowland="" target="_blank"><p id="para4">Abbé Prévost, <i>Manon Lescaut </i></p></a> </li>
             <li><a href="fr/sujet-de-BAC-2024.pdf" dowland="" target="_blank"><p id="para4">Sujets de Bac  de l'épreuve de 2024 </p></a> </li>
          </ul>
+      </div>
     <hr>
- </div>
+ </div></div>
  <!--<div id="Info" class="w3-container city" style="display:none">
   <p id="para2">-</p>
   <p>--</p> 
@@ -156,5 +160,19 @@
     x[i].style.display = "none";  
   }
   document.getElementById(cityName).style.display = "block";  
+ }
+ </script>
+  <script>
+ function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-white", "w3-yellow");
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-yellow", "w3-white");
+  }
  }
  </script>
