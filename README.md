@@ -123,7 +123,7 @@
             <li><a href="fr/Lescaut/Structure-DDFC.pdf" dowload="" target="_blank"><p id="para4">Structure de l'œuvre-S3 </p></a></li>
             <li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
          </ul> 
-    <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📁-Sujets de dissertation</p></button>
+    <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
      <div id="Demo1" class="w3-hide w3-container w3-light-grey">    
             <ul>
             <li><a href="fr/Douai/Dis-Cahier_de_Douai.pdf" dowland="" target="_blank"><p id="para4">Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
@@ -152,6 +152,9 @@
  <a href="mat/                  .pdf" dowload="" target="_blank">       #Mathématiques 
  -->
  
+
+ <!--🗂-->
+
  <script>
  function openCity(cityName) {
   var i;
