@@ -94,8 +94,8 @@
   <p id="para33" style="border: 1px solid black; padding: 10px;"> <font style="color:#FF10FF;">⨝</font>Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font style="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font style="color:#0000FF;"><u>WordReference</u></font></a>
   <br><font style="color:#0CF0FF;"> ⨝</font> Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br>Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
   <br><font style="color:#FF9909;">⨝ ⨝</font> S pour "Séance"</p></div>
-   <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
-     <div id="Demo1" class="w3-hide w3-container w3-light-grey">  
+   <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
+     <div id="Demo2" class="w3-hide w3-container w3-light-grey">  
     <ul>
         <li><a href="fr/2024-2025-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
         <li><p id="para4"><a href="fr/2024-2025-T.pdf" dowload="" target="_blank">Les œuvres au programme de Première Technologique</a></p></li> 
@@ -119,7 +119,7 @@
          </ul>  -->
          <p id="para2">📙-Olympe de Gouges, <i>La Déclaration des droits de la femme et de la citoyenne</i></p>
         <ul>
-            <li><a href="fr/DDFC/Olympes_de_Gouges-DDFC.pdf" dowload="" target="_blank"><p id="para4">📜Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/DDFC/Olympes_de_Gouges-DDFC.pdf" dowload="" target="_blank"><p id="para4">📜  Présentation de Parcours-1</p></a></li>
             <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
             <li><a href="fr/Lescaut/Structure-DDFC.pdf" dowload="" target="_blank"><p id="para4">Structure de l'œuvre-S3 </p></a></li>
             <li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
