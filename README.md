@@ -37,6 +37,7 @@
   <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
   <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&body=Ma%20question%20se%20porte%20sur%20les%20mathématiques%20(ne%20changez%20pas%20l'objet%20du%20mail).">Mathémmatiques</a>
   <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BFR%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).">Français</a>
+  <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20(ne%20changez%20pas%20l'objet%20du%20mail).">Physique-Chimie</a>
   <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
   </p></div>
   <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
@@ -115,15 +116,15 @@
         </ul> 
         <!--<p id="para2">📕-Honoré de Balzac, <i>La Peau de chagrin</i></p>
         <ul>
-            <li><a href="fr/Abbé_Prevost-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Présentation de Parcours-1</p></a></li>
+            <li><a href="fr/Honoré_de_Balzac-Peau_de_chagrin.pdf" dowload="" target="_blank"><p id="para4">Présentation de Parcours-1</p></a></li>
             <li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
          </ul>  -->
          <p id="para2">📙-Olympe de Gouges, <i>La Déclaration des droits de la femme et de la citoyenne</i></p>
         <ul>
             <li><a href="fr/DDFC/Olympes_de_Gouges-DDFC.pdf" dowload="" target="_blank"><p id="para4">📜  Présentation de Parcours-1</p></a></li>
-            <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
+            <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>-->
             <li><a href="fr/Lescaut/Structure-DDFC.pdf" dowload="" target="_blank"><p id="para4">Structure de l'œuvre-S3 </p></a></li>
-            <li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
+            <!--<li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
          </ul> 
     <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
      <div id="Demo1" class="w3-hide w3-container w3-light-grey">    
