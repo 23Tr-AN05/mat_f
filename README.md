@@ -126,7 +126,9 @@
             <li><a href="fr/DDFC/Structure-DDFC.pdf" dowload="" target="_blank"><p id="para4">📜  Structure de l'œuvre-S3 </p></a></li>
             <!--<li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
             <li><p id="para4">📑  Explications de texte </p><ol type="A">
-                    <li><a href="fr/DDFC/Explication_de_texte-1-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 </p></a></li>
+                    <li><a href="fr/DDFC/Explication_de_texte-1-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Exhortation aux hommes </p></a></li>
+                  <!--<li><a href="fr/DDFC/Explication_de_texte-2-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 </p></a></li>
+                    <li><a href="fr/DDFC/Explication_de_texte-3-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 </p></a></li>-->
                </ol></li>             
          </ul> 
     <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
