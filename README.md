@@ -117,8 +117,8 @@
         </ul> 
         <p id="para2">📕-Honoré de Balzac, <i>La Peau de chagrin</i></p>
         <ul>
-            <li><a href="fr/Chagrin/Honore_de_Balzac-La_Peau_de_chagrin.pdf"  dowload="" target="_blank"><p id="para4">Présentation de Parcours-1</p></a></li>
-            <li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>
+            <li><a href="fr/Chagrin/Honore_de_Balzac-La_Peau_de_chagrin.pdf"  dowload="" target="_blank"><p id="para4">Présentation de Parcours-S1</p></a></li>
+            <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-S2</p></a></li>-->
          </ul> 
          <p id="para2">📙-Olympe de Gouges, <i>La Déclaration des droits de la femme et de la citoyenne</i></p>
         <ul>
