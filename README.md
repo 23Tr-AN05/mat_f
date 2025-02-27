@@ -131,7 +131,7 @@
                    <li><a href="fr/DDFC/Explication_de_texte-2-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 : Préambule</p></a></li>
                    <!-- <li><a href="fr/DDFC/Explication_de_texte-3-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 : Postambule </p></a></li>-->
                </ol></li> 
-            <li> <p id="para4">Je vous ajoute un document complémentaire qui est fait pour une classe UPE2A qui reprend la contexte historique:  <a href="fr/DDFC/Revolution_française.pdf" dowload="" target="_blank">Révolution française</a>  et la       <a href="fr/DDFC/fiche-R_F.pdf" dowload="" target="_blank">fiche de l'activité 2</a> </p></li>     
+            <li> <p id="para4">Je vous ajoute un document complémentaire qui est fait pour une classe UPE2A qui reprend la contexte historique:  <a href="fr/DDFC/Revolution_française.pdf" dowload="" target="_blank"><u>Révolution française</u></a>  et la       <a href="fr/DDFC/fiche-R_F.pdf" dowload="" target="_blank"><u>fiche de l'activité 2</u></a> </p></li>     
          </ul> 
     <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
      <div id="Demo1" class="w3-hide w3-container w3-light-grey">    
