@@ -138,8 +138,11 @@
             <ul>
             <li><a href="fr/Douai/Dis-Cahier_de_Douai.pdf" dowland="" target="_blank"><p id="para4">🖋️Arthur RIMBAUD, <i> Cahier de Douai</i></p></a></li>
             <li><a href="fr/Chagrin/Dis-Peau_de_chagrin.pdf" dowland="" target="_blank"><p id="para4">🖋️Honoré de Balzac, <i>La Peau de chagrin</i></p></a> </li>
-            <li><a href="fr/DDFC/Dis-DDFC.pdf" dowland="" target="_blank"><p id="para4">🖋️Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a> </li>
             <li><a href="fr/Lescaut/Dis-Manon_Lescaut.pdf" dowland="" target="_blank"><p id="para4">🖋️Abbé Prévost, <i>Manon Lescaut </i></p></a> </li>
+            <li><a href="fr/DDFC/Dis-DDFC.pdf" dowland="" target="_blank"><p id="para4">🖋️Olympe de Gouges, <i>Déclaration des droits de la femme et de la citoyenne </i></p></a> </li>
+            <li><a href="fr/Amour/Dis-On_ne_badine_pas_avec_l_amour.pdf" target="_blank"><p id="para4">🖋️Alfred de Musset, <i>On ne badine pas avec l'amour </i></p></a> </li>
+            <li><a href="fr/Menteur/Dis-Le_Menteur.pdf" target="_blank"><p id="para4">🖋️Corneille, <i>Le Menteur  </i></p></a> </li>
+            <li><a href="fr/oui-non/Dis-On_ne_badine_pas_avec_l_amour.pdf" target="_blank"><p id="para4">🖋️Nathalie Sarraute, <i>Pour un oui ou pour un non </i></p></a> </li>
             <li><a href="fr/sujet-de-BAC-2024.pdf" dowland="" target="_blank"><p id="para4">📝Sujets de Bac  de l'épreuve de 2024 </p></a> </li>
          </ul>
       </div>
