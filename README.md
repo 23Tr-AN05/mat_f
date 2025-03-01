@@ -126,7 +126,7 @@
 
  <div id="Terminale" class="w3-container city" style="display:none">
   <p id="para1">Terminale Générale</p>
-  <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+  <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
   <p id="para6">📁  Equations différentielles</p>
     <ul>
       <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
