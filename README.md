@@ -125,7 +125,7 @@
             <li><a href="fr/DDFC/Olympes_de_Gouges-DDFC.pdf" dowload="" target="_blank"><p id="para4">📜  Présentation de Parcours-S1</p></a></li>
             <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">Présentation de l'œuvre-2</p></a></li>-->
             <li><a href="fr/DDFC/Structure-DDFC.pdf" dowload="" target="_blank"><p id="para4">📜  Structure de l'œuvre-S3 </p></a></li>
-            <!--<li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target=_blank"><p id="para4">Quelques citations-S4</></a></li>-->
+            <li><a href="fr/DDFC/Cit-DDFC.pdf" dowload="" target="_blank"><p id="para4">Quelques citations-S4</></a></li>
             <li><p id="para4">📑  Explications de texte </p><ol type="A">
                     <li><a href="fr/DDFC/Explication_de_texte-1-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Exhortation aux hommes </p></a></li>
                    <li><a href="fr/DDFC/Explication_de_texte-2-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 : Préambule</p></a></li>
