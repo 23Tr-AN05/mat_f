@@ -48,7 +48,7 @@
  <!--
  <div id="Six" class="w3-container city" style="display:none">
  <p id="para1">Sixième</p>
- <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+ <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -61,7 +61,7 @@
 
  <div id="Cinq" class="w3-container city" style="display:none"> 
   <p id="para1">Cinquième</p>
-  <p id="para3"><a href="mat/5e/Programme_5.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/5e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+  <p id="para3"><a href="mat/5e/Programme_5.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/5e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </a></p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -74,7 +74,7 @@
 
  <div id="Quatre" class="w3-container city" style="display:none">
   <p id="para1">Quatrième</p>
-  <p id="para3"><a href="mat/4e/Programme_4.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/4e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+  <p id="para3"><a href="mat/4e/Programme_4.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/4e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -87,7 +87,7 @@
 
  <div id="Tois" class="w3-container city" style="display:none">
   <p id="para1">Troisième</p>
-  <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+  <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
    <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -100,7 +100,7 @@
 
  <div id="Seconde" class="w3-container city" style="display:none">
   <p id="para1">Seconde</p>
-  <p id="para3"><a href="mat/2nde/Programme_2.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/2nde/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+  <p id="para3"><a href="mat/2nde/Programme_2.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/2nde/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -113,7 +113,7 @@
 
  <div id="Première" class="w3-container city" style="display:none">
   <p id="para1">Première</p>
-  <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </p>
+  <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
