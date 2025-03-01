@@ -107,13 +107,13 @@
         <ul>
             <li><a href="fr/Douai/Rimbaud-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">Biographie de l'auteur-2</p></a></li>-->
-            <li><p id="para4">📑  Explications de texte </p><ol type="A">
+            <!--<li><p id="para4">📑  Explications de texte </p><ol type="A">
                     <li><a href="fr/Douai/Explication_de_texte-1-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Vénus Anadyomène</p></a></li>
                    <li><a href="fr/Douai/Explication_de_texte-2-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 :Le Mal</p></a></li>
                    <li><a href="fr/Douai/Explication_de_texte-3-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 :Le Dormeur du val </p></a></li>
                    <li><a href="fr/Douai/Explication_de_texte-4-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 : La Maline </p></a></li>
                    <li><a href="fr/Douai/Explication_de_texte-5-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Rêvé pour l'hiver </p></a></li>
-               </ol></li> 
+               </ol></li> -->
         </ul>    
     <p id="para2">📗-Abbé Prévost, <i>Manon Lescaut</i></p>
         <ul>
