@@ -151,7 +151,8 @@
         <li><a href="fr/2024-2025-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
         <li><p id="para4"><a href="fr/2024-2025-T.pdf" dowload="" target="_blank">Les œuvres au programme de Première Technologique</a></p></li> 
     </ul></div>
-    <p id="para2">📘-Arthur RIMBAUD, <i>Cahier de Douai</i></p>
+    <button onclick="myFunction('Demo4')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📘-Arthur RIMBAUD, <i>Cahier de Douai</i></p></button>
+      <div id="Demo4" class="w3-hide w3-container w3-light-grey"> 
         <ul>
             <li><a href="fr/Douai/Rimbaud-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">Biographie de l'auteur-2</p></a></li>-->
@@ -162,7 +163,7 @@
                    <li><a href="fr/Douai/Explication_de_texte-4-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 : La Maline </p></a></li>
                    <li><a href="fr/Douai/Explication_de_texte-5-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Rêvé pour l'hiver </p></a></li>
                </ol></li> 
-        </ul>    
+        </ul>  </div>  
     <p id="para2">📗-Abbé Prévost, <i>Manon Lescaut</i></p>
         <ul>
             <li><a href="fr/Lescaut/Abbé_Prevost-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de Parcours-S1</p></a></li>
