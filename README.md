@@ -204,14 +204,14 @@
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
         </ul>    
-        <!-- <p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p>
+         <p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p>
         <ul>
-            <li><a href="fr/Amour/   " dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
-            !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>--
-            !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> --
-            !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> --
+            <li><a href="fr/Amour/Musset-on_ne_badine_pas_avec_amour-Parcours.pdf   " dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
+            <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>-->
+            <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
+            <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
         </ul> 
-         <p id="para2">📕- Nathalie Sarraute, <i>Le Menteur</i></p>
+        <!-- <p id="para2">📕- Nathalie Sarraute, <i>Le Menteur</i></p>
         <ul>
             <li><a href="fr/oui-non/    " dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>--
