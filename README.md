@@ -48,7 +48,7 @@
  <!--
  <div id="Six" class="w3-container city" style="display:none">
  <p id="para1">Sixième</p>
- <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
+ <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -61,7 +61,7 @@
 
  <div id="Cinq" class="w3-container city" style="display:none"> 
   <p id="para1">Cinquième</p>
-  <p id="para3"><a href="mat/5e/Programme_5.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/5e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font> </a></p>
+  <p id="para3"><a href="mat/5e/Programme_5.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/5e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font> </a></p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -74,7 +74,7 @@
 
  <div id="Quatre" class="w3-container city" style="display:none">
   <p id="para1">Quatrième</p>
-  <p id="para3"><a href="mat/4e/Programme_4.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/4e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
+  <p id="para3"><a href="mat/4e/Programme_4.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/4e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -87,7 +87,7 @@
 
  <div id="Tois" class="w3-container city" style="display:none">
   <p id="para1">Troisième</p>
-  <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
+  <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
    <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -100,7 +100,7 @@
 
  <div id="Seconde" class="w3-container city" style="display:none">
   <p id="para1">Seconde</p>
-  <p id="para3"><a href="mat/2nde/Programme_2.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/2nde/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
+  <p id="para3"><a href="mat/2nde/Programme_2.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/2nde/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -113,7 +113,7 @@
 
  <div id="Première" class="w3-container city" style="display:none">
   <p id="para1">Première</p>
-  <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
+  <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -126,7 +126,7 @@
 
  <div id="Terminale" class="w3-container city" style="display:none">
   <p id="para1">Terminale Générale</p>
-  <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Edt</u></font></a> </p>
+  <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
   <p id="para6">📁  Equations différentielles</p>
     <ul>
       <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
@@ -203,6 +203,13 @@
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>-->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
+            <!--<li><p id="para4">📑  Explications de texte </p><ol type="A">
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 1 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 2 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
+               </ol></li> -->
         </ul>    
          <p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p>
         <ul>
@@ -210,6 +217,13 @@
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>-->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
+             <!--<li><p id="para4">📑  Explications de texte </p><ol type="A">
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 1 : Acte I, Scène 2  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 2 : Acte II, scène 1 </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 : Acte II, scène 5 </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 : Acte III, scène 3  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 : Acte III, scène 8  </p></a></li>
+               </ol></li> -->
         </ul> 
         <!-- <p id="para2">📕- Nathalie Sarraute, <i>Le Menteur</i></p>
         <ul>
@@ -217,6 +231,13 @@
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>--
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> --
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> --
+            !--<li><p id="para4">📑  Explications de texte </p><ol type="A">
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 1 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 2 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
+                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
+               </ol></li> --
         </ul>-->
    <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
      <div id="Demo1" class="w3-hide w3-container w3-light-grey">    
