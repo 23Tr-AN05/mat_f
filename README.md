@@ -192,7 +192,7 @@
                    <li><a href="fr/DDFC/Explication_de_texte-2-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 : Préambule</p></a></li>
                    <li><a href="fr/DDFC/Explication_de_texte-3-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 : Postambule </p></a></li>
                    <li><a href="fr/DDFC/Explication_de_texte-4-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  Théroigne de Méricourt, Discours prononcé à la Société fraternelle des minimes, (1792)</p></a></li>
-                   <li><a href="fr/DDFC/Explication_de_texte-5-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
+                   <li><a href="fr/DDFC/Explication_de_texte-5-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Annie Ernaux, <i>La femme gelée </i> </p></a></li>
                </ol></li> 
              <li> <p id="para4">Je vous ajoute un document complémentaire qui est fait pour une classe UPE2A qui reprend la contexte historique:  <a href="fr/DDFC/Revolution_française.pdf" dowload="" target="_blank"><u>Révolution française</u></a>  et la       <a href="fr/DDFC/fiche-R_F.pdf" dowload="" target="_blank"><u>fiche de l'activité 2</u></a> </p></li>     
          </ul>
