@@ -32,6 +32,17 @@
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
   <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir.<br> En particulier pour ceux qui se préparent au Baccalauréat.</p>
+  <div style="border: 1px solid black; padding: 10px;">
+        <p style="float:right"><img src="image/Germain.jpeg" /></p><p><center><font id="para34" style="color:red;">Sophie Germain (1776-1831)</font><br><font id="para3"> est une mathématicienne française, spécialiste d'algèbre et enseingnante française</font></center><br><font id="para3">Sophie Germain était une mathématicienne et physicienne française, pionnière dans un domaine dominé par les hommes à son époque. Malgré les obstacles liés à son sexe, elle a fait d'importantes contributions, notamment en théorie des nombres et en élasticité. Elle est surtout connue pour ses travaux sur le dernier théorème de Fermat, qu'elle a abordé avec des méthodes innovantes, et pour ses recherches en physique, notamment sur les vibrations des corps élastiques. Elle a reçu la reconnaissance de mathématiciens comme Carl Friedrich Gauss, qui lui a adressé des lettres de soutien. Sophie Germain a brisé des barrières et a ouvert la voie pour les femmes dans les sciences. </font></p>
+      <div style="clear:both"></div>
+      <p style="float:left"><img src="image/Dubreil-Jacotin.jpg" /></p><p><center><font id="para34" style="color:red;">Marie-Louise Dubreil-Jacotin (1905-1972)</font><br><font id="para3"><i>Elle fut la première femme mathématicienne à devenir professeur d'Université en France.</i></font></center><br><font id="para3">Marie-Louise Dubreil-Jacotin (1905-1972) était une mathématicienne française de renom, notamment reconnue pour sa contribution à l'algèbre et à la théorie des groupes. Après avoir obtenu la deuxième place au concours d'entrée de l'École Normale Supérieure (ENS) en 1925, elle a poursuivi une carrière brillante dans le monde des mathématiques.
+      <br>Lorsqu'elle a eu la deuxième place, elle est rétrogradée à la 21ème place, dont après les admis. Cet évènemnt rendu public par son amie en entrainant le changment des règles d'admission. 
+      <br>
+      En 1941, elle obtient un poste de maître de conférences à la Faculté des Sciences de l'Université de Paris, une position qui marquait un tournant important dans sa carrière. Elle y enseigne les mathématiques tout en continuant ses recherches. En 1943, elle est nommée professeur titulaire de la chaire de calcul différentiel et intégral  à la Faculté des Sciences de l'Université de Poitiers.<br>1954-1955, elle est nommée maître de conférences à la faculté des sciences de l'université de Paris en 1956, chargée de la préparation au concours d'agrégation féminine de mathématiques, puis professeure titulaire à titre personnel deux ans plus tard,où elle exerce jusqu'à la fin de sa carrière.
+      <br>
+      Parallèlement à son enseignement, Marie-Louise Dubreil-Jacotin soutient sa thèse en 1932, intitulée "Recherches sur les groupes de transformations", sous la direction de Évariste Galois. Cette thèse marquait une étape importante dans le développement de la théorie des groupes et a permis à Dubreil-Jacotin de se faire un nom dans le milieu scientifique.
+      <br>Sa carrière fut marquée par des contributions importantes aux mathématiques, et elle est restée une figure influente dans le développement des mathématiques en France, en particulier pour avoir ouvert la voie aux femmes dans ce domaine.</font></p>
+      <div style="clear:both"></div>
  <br>
   <div id="center">
   <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
@@ -194,6 +205,7 @@
                    <li><a href="fr/DDFC/Explication_de_texte-4-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  Théroigne de Méricourt, Discours prononcé à la Société fraternelle des minimes, (1792)</p></a></li>
                    <li><a href="fr/DDFC/Explication_de_texte-5-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Annie Ernaux, <i>La femme gelée </i> </p></a></li>
                </ol></li> 
+               <li><a href="fr" dowload="" terget="_blank"><p id="para4">Les questions de grammaire</p></li>
              <li> <p id="para4">Je vous ajoute un document complémentaire qui est fait pour une classe UPE2A qui reprend la contexte historique:  <a href="fr/DDFC/Revolution_française.pdf" dowload="" target="_blank"><u>Révolution française</u></a>  et la       <a href="fr/DDFC/fiche-R_F.pdf" dowload="" target="_blank"><u>fiche de l'activité 2</u></a> </p></li>     
          </ul>
         </div>
