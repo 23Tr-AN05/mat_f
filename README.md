@@ -42,24 +42,24 @@
       <br>
       Parallèlement à son enseignement, Marie-Louise Dubreil-Jacotin soutient sa thèse en 1932, intitulée "Recherches sur les groupes de transformations", sous la direction de Évariste Galois. Cette thèse marquait une étape importante dans le développement de la théorie des groupes et a permis à Dubreil-Jacotin de se faire un nom dans le milieu scientifique.
       <br>Sa carrière fut marquée par des contributions importantes aux mathématiques, et elle est restée une figure influente dans le développement des mathématiques en France, en particulier pour avoir ouvert la voie aux femmes dans ce domaine.</font></p>
-      <div style="clear:both"></div>
- <br>
-  <div id="center">
-  <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
-  <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&body=Ma%20question%20se%20porte%20sur%20les%20mathématiques%20(ne%20changez%20pas%20l'objet%20du%20mail).">Mathémmatiques</a>
-  <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BFR%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).">Français</a>
-  <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BP-C%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20(ne%20changez%20pas%20l'objet%20du%20mail).">Physique-Chimie</a>
-  <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
-  </p></div>
-  <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
-  <p>--</p> 
-  <hr>
- </div>
+  <div style="clear:both"></div>
+  <br>
+   <div id="center">
+      <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
+       <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BMat%5D&body=Ma%20question%20se%20porte%20sur%20les%20mathématiques%20(ne%20changez%20pas%20l'objet%20du%20mail).">Mathémmatiques</a>
+       <br>&nbsp;&nbsp;&nbsp;⯑&nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BFR%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).">Français</a>
+       <br>&nbsp;&nbsp;&nbsp;⯑ &nbsp;<a title="Question" href="mailto:ozcelebialican2005@gmail.com?subject=J'ai une question%5BP-C%5D&body=Ma%20question%20se%20porte%20sur%20les%20Physique-Chimie%20(ne%20changez%20pas%20l'objet%20du%20mail).">Physique-Chimie</a>
+       <br> &nbsp;&nbsp;&nbsp; ‼‽ &nbsp;<a title="Signaler une erreur" href="mailto:ozcelebialican2005@gmail.com?subject=%5BErreur%5D&body=Ma%20question%20se%20porte%20sur%20le%20français%20 (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
+     </p></div>
+     <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
+     <p>--</p> 
+    <hr>
+   </div>
 
- <!--
- <div id="Six" class="w3-container city" style="display:none">
- <p id="para1">Sixième</p>
- <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <!--
+   <div id="Six" class="w3-container city" style="display:none">
+   <p id="para1">Sixième</p>
+   <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
   <p id="para6">📁 Chapitre 1:</p>
     <ul>
       <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
