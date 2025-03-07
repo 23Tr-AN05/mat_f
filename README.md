@@ -57,105 +57,112 @@
    </div>
 
    <!--
-   <div id="Six" class="w3-container city" style="display:none">
+ <div id="Six" class="w3-container city" style="display:none">
    <p id="para1">Sixième</p>
    <p id="para3"><a href="mat/6e/Programme_6.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/6e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-  <p id="para6">📁 Chapitre 1:</p>
-    <ul>
-      <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-      <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-      <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-      <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-   </ul>
- <hr> 
- </div>
+    <p id="para6">📁 Chapitre 1:</p>
+      <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+    <p id="para6">📁 Chapitre 2:</p>
+     <ul>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+        <li><a href="mat/6e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+   <hr> 
+  </div>
 
  <div id="Cinq" class="w3-container city" style="display:none"> 
-  <p id="para1">Cinquième</p>
-  <p id="para3"><a href="mat/5e/Programme_5.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/5e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font> </a></p>
-  <p id="para6">📁 Chapitre 1:</p>
-    <ul>
-      <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-      <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-      <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-      <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-   </ul>
-  <hr>
+   <p id="para1">Cinquième</p>
+   <p id="para3"><a href="mat/5e/Programme_5.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/5e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font> </a></p>
+   <p id="para6">📁 Chapitre 1:</p>
+     <ul>
+        <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+        <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/5e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+     </ul>
+   <hr>
  </div>
 
  <div id="Quatre" class="w3-container city" style="display:none">
-  <p id="para1">Quatrième</p>
-  <p id="para3"><a href="mat/4e/Programme_4.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/4e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-  <p id="para6">📁 Chapitre 1:</p>
-    <ul>
-      <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-      <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-      <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-      <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-   </ul>
-  <hr>
+   <p id="para1">Quatrième</p>
+   <p id="para3"><a href="mat/4e/Programme_4.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/4e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+    <p id="para6">📁 Chapitre 1:</p>
+     <ul>
+        <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/4e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+     </ul>
+   <hr>
  </div>
 
  <div id="Tois" class="w3-container city" style="display:none">
-  <p id="para1">Troisième</p>
-  <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <p id="para1">Troisième</p>
+   <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
    <p id="para6">📁 Chapitre 1:</p>
-    <ul>
-      <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-      <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-      <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-      <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+     <ul>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
    </ul>
-  <hr>
+   <hr>
  </div>
 
  <div id="Seconde" class="w3-container city" style="display:none">
-  <p id="para1">Seconde</p>
-  <p id="para3"><a href="mat/2nde/Programme_2.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/2nde/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-  <p id="para6">📁 Chapitre 1:</p>
-    <ul>
-      <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-      <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-      <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-      <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-   </ul>
-  <hr>
+   <p id="para1">Seconde</p>
+   <p id="para3"><a href="mat/2nde/Programme_2.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font>  </a>et<a href="mat/2nde/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <p id="para6">📁 Chapitre 1:</p>
+     <ul>
+       <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/2nde/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+   <hr>
  </div>
 
  <div id="Première" class="w3-container city" style="display:none">
-  <p id="para1">Première</p>
-  <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-  <p id="para6">📁 Chapitre 1:</p>
-    <ul>
-      <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-      <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-      <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-      <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-   </ul>
-  <hr>
+   <p id="para1">Première</p>
+   <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <p id="para6">📁 Chapitre 1:</p>
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul>
+   <hr>
  </div>-->
 
  <div id="Terminale" class="w3-container city" style="display:none">
-  <p id="para1">Terminale Générale</p>
-  <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font> </a>et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-  <p id="para6">📁  Equations différentielles</p>
+   <p id="para1">Terminale Générale</p>
+   <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font>  </a>et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <p id="para6">📁  Equations différentielles</p>
     <ul>
-      <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
-      <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
-      <li><a href="mat/Tle/ED/TD-equations_differentielles-correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
-      <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>
-   </ul>
-  <p></p>
-  <hr>
+       <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
+       <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
+       <li><a href="mat/Tle/ED/TD-equations_differentielles-correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
+       <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>
+    </ul>
+   <p></p>
+   <hr>
  </div>
 
  <div id="Français" class="w3-container city" style="display:none"> <div class="w3-container">
-  <center><p id="para1">Français- Première - BAC</p></center>
-  <div id="center">
-  <p id="para33" style="border: 1px solid black; padding: 10px;"> <font style="color:#FF10FF;">⨝</font>Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font style="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font style="color:#0000FF;"><u>WordReference</u></font></a>
-  <br><font style="color:#0CF0FF;"> ⨝</font> Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br>Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
-  <br><font style="color:#8C62F0;"> ⨝</font> Vous pouvez, si vous voulez, m'envoyer un plan de dissertation (ou rédigée toute entière) ou une explication de texte (rédigée ou pas) que vous avez faits, afin que je puisse vous donner quelques conseilles. (Cela ne serait pas une "correction" d'un professeur, bien évidement). <a title="Correction" href="mailto:ozcelebialican2005@gmail.com?subject=Dissertation ou Explication de texte%5BFR%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0APréciser%20le%20 Sujet%20s'il%20s'agit%20d'une%20dissertation:%0A%0AS'il%20s'agit%20d'une%20Explication d'un%20texte%20préciser%20le%20 titre%20 de %20l'œuvre%20 associée%20 et %20le %20 numéro(1,2,3,4,5):">Cliquez <font style="color:#0000FF;"><u>ici</u></font> pour envoyer votre travail.</a>
-  <br><font style="color:#FF9909;">⨝ ⨝</font> S pour "Séance"</p></div>
+   <center><p id="para1">Français- Première - BAC</p></center>
+   <div id="center">
+   <p id="para33" style="border: 1px solid black; padding: 10px;"> <font style="color:#FF10FF;">⨝</font>Je vous conseille vivement utiliser <a href="https://cnrtl.fr/definition/" target="_blank"><font style="color:#0000FF;"><u>CNRTL</u></font></a>, un dictionnaire en ligne (une référence de pluparts des professeurs) ou si vous ne vous maîtrisez pas la langue française :<a href="https://www.wordreference.com/fr/" target="Fenêtre définie"><font style="color:#0000FF;"><u>WordReference</u></font></a>
+   <br><font style="color:#0CF0FF;"> ⨝</font> Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br>Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
+   <br><font style="color:#8C62F0;"> ⨝</font> Vous pouvez, si vous voulez, m'envoyer un plan de dissertation (ou rédigée toute entière) ou une explication de texte (rédigée ou pas) que vous avez faits, afin que je puisse vous donner quelques conseilles. (Cela ne serait pas une "correction" d'un professeur, bien évidement). <a title="Correction" href="mailto:ozcelebialican2005@gmail.com?subject=Dissertation ou Explication de texte%5BFR%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0APréciser%20le%20 Sujet%20s'il%20s'agit%20d'une%20dissertation:%0A%0AS'il%20s'agit%20d'une%20Explication d'un%20texte%20préciser%20le%20 titre%20 de %20l'œuvre%20 associée%20 et %20le %20 numéro(1,2,3,4,5):">Cliquez <font style="color:#0000FF;"><u>ici</u></font> pour envoyer votre travail. </a>
+   <br><font style="color:#FF9909;">⨝ ⨝</font> S pour "Séance"</p></div>
    <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
      <div id="Demo2" class="w3-hide w3-container w3-light-grey">  
     <ul>
