@@ -205,7 +205,7 @@
                    <li><a href="fr/DDFC/Explication_de_texte-4-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  Théroigne de Méricourt, Discours prononcé à la Société fraternelle des minimes, (1792)</p></a></li>
                    <li><a href="fr/DDFC/Explication_de_texte-5-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Annie Ernaux, <i>La femme gelée </i> </p></a></li>
                </ol></li> 
-               <li><a href="fr" dowload="" terget="_blank"><p id="para4">Les questions de grammaire</p></li>
+             <li><a href="fr" dowload="" terget="_blank"><p id="para4">Les questions de grammaire</p></a></li>
              <li> <p id="para4">Je vous ajoute un document complémentaire qui est fait pour une classe UPE2A qui reprend la contexte historique:  <a href="fr/DDFC/Revolution_française.pdf" dowload="" target="_blank"><u>Révolution française</u></a>  et la       <a href="fr/DDFC/fiche-R_F.pdf" dowload="" target="_blank"><u>fiche de l'activité 2</u></a> </p></li>     
          </ul>
         </div>
