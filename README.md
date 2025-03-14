@@ -244,10 +244,10 @@
                    <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 : Acte III, scène 8  </p></a></li>
                </ol></li> -->
         </ul> 
-        <!-- <p id="para2">📕- Nathalie Sarraute, <i>Le Menteur</i></p>
+        <p id="para2">📕- Nathalie Sarraute, <i>Le Menteur</i></p>
         <ul>
-            <li><a href="fr/oui-non/    " dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
-            !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>--
+            <li><a href="fr/oui-non/Nathalie_Sarraute-Pour_un_oui_pour_un_non-Parcours.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
+            <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>--
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> --
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> --
             !--<li><p id="para4">📑  Explications de texte </p><ol type="A">
@@ -256,8 +256,8 @@
                    <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
                    <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
                    <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
-               </ol></li> --
-        </ul>-->
+               </ol></li> -->
+        </ul>
    <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
      <div id="Demo1" class="w3-hide w3-container w3-light-grey">    
             <ul>
