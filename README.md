@@ -165,7 +165,7 @@
    <br><font style="color:#8C62F0;"> ⨝</font> Vous pouvez, si vous voulez, m'envoyer un plan de dissertation (ou rédigée toute entière) ou une explication de texte (rédigée ou pas) que vous avez faits, afin que je puisse vous donner quelques conseilles. (Cela ne serait pas une "correction" d'un professeur, bien évidement). <a title="Correction" href="mailto:ozcelebialican2005@gmail.com?subject=Dissertation ou Explication de texte%5BFR%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0APréciser%20le%20 Sujet%20s'il%20s'agit%20d'une%20dissertation:%0A%0AS'il%20s'agit%20d'une%20Explication d'un%20texte%20préciser%20le%20 titre%20 de %20l'œuvre%20 associée%20 et %20le %20 numéro(1,2,3,4,5):">Cliquez <font style="color:#0000FF;"><u>ici</u></font> pour envoyer votre travail. </a>
    <br><font style="color:#FF9909;">⨝ ⨝</font> S pour "Séance"</p></div>
    <p id="para4"><a href="https://www.tv5monde.com/tv/video/94520-7-jours-semaine-de-la-langue-francaise-et-de-la-francophonie">Parlons franc: Tv5Monde- 7jours, Semaine de la langue française et la francophonie (Voir à partir de 10min17s)</a></p>
-   <p id="para4"><a href="https://23tr-an05.github.io/liman/">Les livres au programme de Français en <u><font style="color:#000FF;">langues étrangères</font></u></a></p>
+   <p id="para4"><a href="https://23tr-an05.github.io/liman/">Les livres au programme de Français en <u><font style="color:#0000FF;">langues étrangères</font></u></a></p>
    <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
      <div id="Demo2" class="w3-hide w3-container w3-light-grey">  
     <ul>
