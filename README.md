@@ -33,6 +33,7 @@
   <p id="para2">Bienvenue</p>
   <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir.<br> En particulier pour ceux qui se préparent au Baccalauréat.</p>
     <div style="border: 1px solid black; padding: 10px;">
+       <p>Pour 8 mars, je vous presente:
         <p style="float:right"><img src="image/Germain.jpeg" /></p><p><center><font id="para34" style="color:red;">Sophie Germain (1776-1831)</font></center><br><font id="para34">Sophie Germain était une mathématicienne et physicienne française, pionnière dans un domaine dominé par les hommes à son époque. Malgré les obstacles liés à son sexe, elle a fait d'importantes contributions, notamment en théorie des nombres et en élasticité. Elle est surtout connue pour ses travaux sur le dernier théorème de Fermat, qu'elle a abordé avec des méthodes innovantes, et pour ses recherches en physique, notamment sur les vibrations des corps élastiques. Elle a reçu la reconnaissance de mathématiciens comme Carl Friedrich Gauss, qui lui a adressé des lettres de soutien. Sophie Germain a brisé des barrières et a ouvert la voie pour les femmes dans les sciences. </font></p>
       <div style="clear:both"></div>
       <p style="float:left"><img src="image/Dubreil-Jacotin.jpg" /></p><p><center><font id="para34" style="color:red;">Marie-Louise Dubreil-Jacotin (1905-1972)</font><br><font id="para34"><i>Elle fut la première femme mathématicienne à devenir professeur d'Université en France.</i></font></center><br><font id="para34">Marie-Louise Dubreil-Jacotin (1905-1972) était une mathématicienne française de renom, notamment reconnue pour sa contribution à l'algèbre et à la théorie des groupes. Après avoir obtenu la deuxième place au concours d'entrée de l'École Normale Supérieure (ENS) en 1925, elle a poursuivi une carrière brillante dans le monde des mathématiques.
@@ -144,7 +145,7 @@
 
  <div id="Terminale" class="w3-container city" style="display:none">
    <p id="para1">Terminale Générale</p>
-   <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font>  </a>et<a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Programme de l'année</u></font>  </a> et <a href="mat/Tle/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de texte</u></font></a> </p>
    <p id="para6">📁  Equations différentielles</p>
     <ul>
        <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
@@ -163,7 +164,8 @@
    <br><font style="color:#0CF0FF;"> ⨝</font> Vous avez, dans les fichier ci-dessus, certaines questions (signalées par "¿" en début des questions).<br>Je vous invite à réfléchir à ses questions qui peuvent être très utiles pour la compréhension de certains passages ou pour une dissertation.
    <br><font style="color:#8C62F0;"> ⨝</font> Vous pouvez, si vous voulez, m'envoyer un plan de dissertation (ou rédigée toute entière) ou une explication de texte (rédigée ou pas) que vous avez faits, afin que je puisse vous donner quelques conseilles. (Cela ne serait pas une "correction" d'un professeur, bien évidement). <a title="Correction" href="mailto:ozcelebialican2005@gmail.com?subject=Dissertation ou Explication de texte%5BFR%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0APréciser%20le%20 Sujet%20s'il%20s'agit%20d'une%20dissertation:%0A%0AS'il%20s'agit%20d'une%20Explication d'un%20texte%20préciser%20le%20 titre%20 de %20l'œuvre%20 associée%20 et %20le %20 numéro(1,2,3,4,5):">Cliquez <font style="color:#0000FF;"><u>ici</u></font> pour envoyer votre travail. </a>
    <br><font style="color:#FF9909;">⨝ ⨝</font> S pour "Séance"</p></div>
-   <p id="para4"><a href="https://www.tv5monde.com/tv/video/94520-7-jours-semaine-de-la-langue-francaise-et-de-la-francophonie">Parlons franc: Tv5Monde- 7jours, Semaine de la langue française et la francophonie (Vori à partir de 10min17s)</a></p>
+   <p id="para4"><a href="https://www.tv5monde.com/tv/video/94520-7-jours-semaine-de-la-langue-francaise-et-de-la-francophonie">Parlons franc: Tv5Monde- 7jours, Semaine de la langue française et la francophonie (Voir à partir de 10min17s)</a></p>
+   <p id="para4"><a href="https://23tr-an05.github.io/liman/">Les livres au programme de Français en <u><font style="color:#000FF;">langues étrangères</font></u></p>
    <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
      <div id="Demo2" class="w3-hide w3-container w3-light-grey">  
     <ul>
