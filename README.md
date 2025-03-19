@@ -165,7 +165,7 @@
    <br><font style="color:#8C62F0;"> ⨝</font> Vous pouvez, si vous voulez, m'envoyer un plan de dissertation (ou rédigée toute entière) ou une explication de texte (rédigée ou pas) que vous avez faits, afin que je puisse vous donner quelques conseilles. (Cela ne serait pas une "correction" d'un professeur, bien évidement). <a title="Correction" href="mailto:ozcelebialican2005@gmail.com?subject=Dissertation ou Explication de texte%5BFR%5D&body=(ne%20changez%20pas%20l'objet%20du%20mail).%0APréciser%20le%20 Sujet%20s'il%20s'agit%20d'une%20dissertation:%0A%0AS'il%20s'agit%20d'une%20Explication d'un%20texte%20préciser%20le%20 titre%20 de %20l'œuvre%20 associée%20 et %20le %20 numéro(1,2,3,4,5):">Cliquez <font style="color:#0000FF;"><u>ici</u></font> pour envoyer votre travail. </a>
    <br><font style="color:#FF9909;">⨝ ⨝</font> S pour "Séance"</p></div>
    <p id="para4"><a href="https://www.tv5monde.com/tv/video/94520-7-jours-semaine-de-la-langue-francaise-et-de-la-francophonie">Parlons franc: Tv5Monde- 7jours, Semaine de la langue française et la francophonie (Voir à partir de 10min17s)</a></p>
-   <p id="para4"><a href="https://23tr-an05.github.io/liman/">Les livres au programme de Français en <u><font style="color:#0000FF;">langues étrangères</font></u></a></p>
+   <p id="para4"><a href="https://23tr-an05.github.io/liman/">Les livres au programme de Français en <u><font style="color:#0000  FF;">langues étrangères</font></u></a></p>
    <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
      <div id="Demo2" class="w3-hide w3-container w3-light-grey">  
     <ul>
@@ -219,20 +219,25 @@
              <li> <p id="para4">Je vous ajoute un document complémentaire qui est fait pour une classe UPE2A qui reprend la contexte historique:  <a href="fr/DDFC/Revolution_française.pdf" dowload="" target="_blank"><u>Révolution française</u></a>  et la       <a href="fr/DDFC/fiche-R_F.pdf" dowload="" target="_blank"><u>fiche de l'activité 2</u></a> </p></li>     
          </ul>
         </div>
+       <!--<button onclick="myFunction('Demo5')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Pierre Corneille, <i>Le Menteur</i></p></button>
+        <div id="Demo5" class="w3-hide w3-container w3-light-grey"> -->
        <p id="para2">📕- Pierre Corneille, <i>Le Menteur</i></p>
         <ul>
+            <!--<li><a href="fr/ " dowland="" target="_blank"><p id="para4">📜 Théâtre Classique  -  S0 </p></a></li>-->
             <li><a href="fr/Menteur/Corneille-Le_Menteur-Parcours.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
-            <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>-->
+            <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-S2</p></a></li>-->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
             <!--<li><p id="para4">📑  Explications de texte </p><ol type="A">
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 1 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 2 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
+                   <li><a href="fr/Menteur/Explication_de_texte-1-Le_Menteur.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 :  </p></a></li>
+                   <li><a href="fr/Menteur/Explication_de_texte-2-Le_Menteur.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 2 :  </p></a></li>
+                   <li><a href="fr/Menteur/Explication_de_texte-3-Le_Menteur.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
+                   <li><a href="fr/Menteur/Explication_de_texte-4-Le_Menteur.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
+                   <li><a href="fr/Menteur/Explication_de_texte-5-Le_Menteur.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
                </ol></li> -->
-        </ul>    
+        </ul> 
+      <!--<button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p></button>
+        <div id="Demo6" class="w3-hide w3-container w3-light-grey"> -->   
          <p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p>
         <ul>
             <li><a href="fr/Amour/Musset-on_ne_badine_pas_avec_amour-Parcours.pdf   " dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
@@ -240,25 +245,27 @@
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
              <!--<li><p id="para4">📑  Explications de texte </p><ol type="A">
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 1 : Acte I, Scène 2  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 2 : Acte II, scène 1 </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 : Acte II, scène 5 </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 : Acte III, scène 3  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 : Acte III, scène 8  </p></a></li>
+                   <li><a href="fr/Amour/Explication_de_texte-1-On_ne_badine_pas_avec_l_amour.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Acte I, Scène 2  </p></a></li>
+                   <li><a href="fr/Amour/Explication_de_texte-2-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 2 : Acte II, scène 1 </p></a></li>
+                   <li><a href="fr/Amour/Explication_de_texte-3-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 3 : Acte II, scène 5 </p></a></li>
+                   <li><a href="fr/Amour/Explication_de_texte-4-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 4 : Acte III, scène 3  </p></a></li>
+                   <li><a href="fr/Amour/Explication_de_texte-5-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 5 : Acte III, scène 8  </p></a></li>
                </ol></li> -->
         </ul> 
-        <p id="para2">📕- Nathalie Sarraute, <i>Le Menteur</i></p>
+        <!--<button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p></button>
+        <div id="Demo6" class="w3-hide w3-container w3-light-grey"> -->  
+        <p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p>
         <ul>
             <li><a href="fr/oui-non/Nathalie_Sarraute-Pour_un_oui_pour_un_non-Parcours.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>--
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> --
             !--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> --
             !--<li><p id="para4">📑  Explications de texte </p><ol type="A">
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 1 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 2 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
-                   <li><a href="fr  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
+                   <li><a href="fr/oui-non/Explication_de_texte-1-Pour_un_oui_ou_pour_un_non.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 :  </p></a></li>
+                   <li><a href="fr/oui-non/Explication_de_texte-2-Pour_un_oui_ou_pour_un_non.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 :  </p></a></li>
+                   <li><a href="fr/oui-non/Explication_de_texte-3-Pour_un_oui_ou_pour_un_non.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 :  </p></a></li>
+                   <li><a href="fr/oui-non/Explication_de_texte-4-Pour_un_oui_ou_pour_un_non.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
+                   <li><a href="fr/oui-non/Explication_de_texte-5-Pour_un_oui_ou_pour_un_non.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
                </ol></li> -->
         </ul>
    <button onclick="myFunction('Demo1')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">🗂-Sujets de dissertation</p></button>
