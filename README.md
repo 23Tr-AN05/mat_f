@@ -17,7 +17,7 @@
  </div>
 
  <div class="w3-bar w3-black">
-  <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Acceuil</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Ac')">Accueil</button>
   <!--<button class="w3-bar-item w3-button" onclick="openCity('Six')">Sixième</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Cinq')">Cinquième</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Quatre')">Quatrième</button>
