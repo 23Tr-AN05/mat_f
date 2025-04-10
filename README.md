@@ -145,8 +145,12 @@
 
  <div id="Terminale" class="w3-container city" style="display:none">
    <p id="para1">Terminale Générale</p>
-   <p id="para3"><a href="mat/Tle/Programme_T-G.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Programme de l'année</u></font>  </a> et <a href="mat/Tle/Cahier_de_texte_Tle.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de texte</u></font></a> </p>
-   <p id="para6">📁  Equations différentielles</p>
+   <p id="para3"><a href="mat/Tle/Programme-TleG.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Programme de l'année</u></font>  </a> et <a href="mat/Tle/Cahier_de_texte_Tle.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de texte</u></font></a> </p>
+   <p id="para6">📁 Chapitre 0: Le langage mathématiques et quelques notations</p>
+    <ul>
+       <li><a href="mat/Tle/0/Chapitre_0.pdf" dowload="" target="_blank"><p id="para4">📄  Cours- La réccurence</p></a></li>
+    </ul>
+   <p id="para6">📁 Chapitre 7: Équations différentielles</p>
     <ul>
        <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
