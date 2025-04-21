@@ -191,21 +191,30 @@
                    <li><a href="fr/1re/Douai/Explication_de_texte-4-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 : La Maline </p></a></li>
                    <li><a href="fr/1re/Douai/Explication_de_texte-5-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Rêvé pour l'hiver </p></a></li>
                </ol></li> 
-        </ul>  </div>  
-    <p id="para2">📗-Abbé Prévost, <i>Manon Lescaut</i></p>
-        <ul>
+        </ul>  </div> 
+    <button onclick="myFunction('Demo11')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📗-Abbé Prévost, <i>Manon Lescaut</i></p></button>
+      <div id="Demo11" class="w3-hide w3-container w3-light-grey"> 
+          <ul>
             <li><a href="fr/1re/Lescaut/Abbé_Prevost-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de Parcours-S1</p></a></li>
             <!--<li><a href="fr/1re/Lescaut/ .pdf" dowload=""><p id="para4" target="_blank">📜   Présentation de l'œuvre-S2</p></a></li>
-            <li><a href="fr/1re/Lescaut/Structure-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3 </p></a></li>
-            <li><a href="fr/1re/Lescaut/Cit-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4📜   Quelques citations -S4</p></a></li>-->
-        </ul> 
-        <p id="para2">📗-Honoré de Balzac, <i>La Peau de chagrin</i></p>
-        <ul>
+            <li><a href="fr/1re/Lescaut/Structure-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3 </p></a></li>-->
+            <li><a href="fr/1re/Lescaut/Cit-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">📜   Quelques citations -S4</p></a></li>
+            <li><p id="para4">📑  Explications de texte </p><ol type="A">
+                   <li><a href="fr/1re/Lescaut/Explication_de_texte-1-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Les retrouvailles au parloir de Saint-Sulpice </p></a></li>
+                   <li><a href="fr/1re/Lescaut/Explication_de_texte-2-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 : L'évasion de Saint-Lazar</p></a></li>
+                   <li><a href="fr/1re/Lescaut/Explication_de_texte-3-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 : La mort et l'enterrement de Manon</p></a></li>
+                   <!--<li><a href="fr/1re/DDFC/Explication_de_texte-4-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  Théroigne de Méricourt, Discours prononcé à la Société fraternelle des minimes, (1792)</p></a></li>
+                   <li><a href="fr/1re/DDFC/Explication_de_texte-5-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Annie Ernaux, <i>La femme gelée </i> </p></a></li>-->
+               </ol></li> 
+         </ul> </div>
+    <button onclick="myFunction('Demo12')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📗-Honoré de Balzac, <i>La Peau de chagrin</i></p></button>
+      <div id="Demo12" class="w3-hide w3-container w3-light-grey">
+         <ul>
             <li><a href="fr/1re/Chagrin/Honore_de_Balzac-La_Peau_de_chagrin.pdf"  dowload="" target="_blank"><p id="para4">📜  Présentation de Parcours-S1</p></a></li>
             <!--<li><a href="fr/ .pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S2</p></a></li>-->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
-         </ul> 
+         </ul> </Div>
       <button onclick="myFunction('Demo3')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📙-Olympe de Gouges,<br> <i>La Déclaration des droits de la femme et de la citoyenne</i></p></button>
         <div id="Demo3" class="w3-hide w3-container w3-light-grey"> 
           <ul>
@@ -257,8 +266,8 @@
                    <li><a href="fr/1re/Amour/Explication_de_texte-5-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 5 : Acte III, scène 8  </p></a></li>
                </ol></li> -->
         </ul> 
-        <!--<button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p></button>
-        <div id="Demo6" class="w3-hide w3-container w3-light-grey"> -->  
+        <!--<button onclick="myFunction('Demo7')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p></button>
+        <div id="Demo7" class="w3-hide w3-container w3-light-grey"> -->  
         <p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p>
         <ul>
             <li><a href="fr/1re/oui-non/Nathalie_Sarraute-Pour_un_oui_pour_un_non-Parcours.pdf" dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
