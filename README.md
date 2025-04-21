@@ -203,8 +203,8 @@
                    <li><a href="fr/1re/Lescaut/Explication_de_texte-1-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Les retrouvailles au parloir de Saint-Sulpice </p></a></li>
                    <li><a href="fr/1re/Lescaut/Explication_de_texte-2-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 : L'évasion de Saint-Lazar</p></a></li>
                    <li><a href="fr/1re/Lescaut/Explication_de_texte-3-Manon_Lescaut.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 : La mort et l'enterrement de Manon</p></a></li>
-                   <!--<li><a href="fr/1re/DDFC/Explication_de_texte-4-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  Théroigne de Méricourt, Discours prononcé à la Société fraternelle des minimes, (1792)</p></a></li>
-                   <li><a href="fr/1re/DDFC/Explication_de_texte-5-DDFC.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 5 : Annie Ernaux, <i>La femme gelée </i> </p></a></li>-->
+                   <!--<li><a href="fr/1re" dowload="" target="_blank"><p id="para4">Explication de texte 4 :  </p></a></li>
+                   <li><a href="fr/1re" dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>-->
                </ol></li> 
          </ul> </div>
     <button onclick="myFunction('Demo12')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📗-Honoré de Balzac, <i>La Peau de chagrin</i></p></button>
