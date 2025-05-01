@@ -142,7 +142,7 @@
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul></div>--
-    <button onclick="myFunction('Demo105')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 5:Probabilités conditionnelles et indépendance</p></button>
+    <button onclick="myFunction('Demo105')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 5 : Probabilités conditionnelles et indépendance</p></button>
       <div id="Demo105" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
@@ -150,7 +150,7 @@
        <li><a href="mat/1re/Chp5    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
        <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
     </ul></div>-->
-    <button onclick="myFunction('Demo109')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9:Variable aléatoire</p></button>
+    <button onclick="myFunction('Demo109')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9 : Variable aléatoire</p></button>
       <div id="Demo109" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/1re/Chp9/Probabilité- Variable_aléatoire.pdf   " dowload="" target="_blank"><p id="para4">📄   Cours - Variable aléatoire  </p></a></li>
@@ -164,7 +164,7 @@
  <div id="Terminale" class="w3-container city" style="display:none">
    <p id="para1">Terminale Générale</p>
    <p id="para3"><a href="mat/Tle/Programme-TleG.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Programme de l'année</u></font>  </a> et <a href="mat/Tle/Cahier_de_texte_Tle.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u>Cahier de texte</u></font></a> </p>
-   <p id="para6">📁 Chapitre 0: Le langage mathématiques et quelques notations</p>
+   <p id="para6">📁 Chapitre 0 : Le langage mathématiques et quelques notations</p>
     <ul>
        <li><a href="mat/Tle/0/Chapitre_0.pdf" dowload="" target="_blank"><p id="para4">📄  Cours- La récurrence</p></a></li>
     </ul>
