@@ -185,7 +185,7 @@
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
             <li><p id="para4">📑  Explications de texte </p><ol type="A">
-                    <li><a href="fr/1re/Douai/Explication_de_texte-1-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Vénus Anadyomène</p></a></li>
+                    <li><a href="fr/1re/Douai/Explication_de_texte-1-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Vénus Anadyomène</p></a>                  <a href="fr/1re/Douai/Explication_de_texte-1-Cahier_de_Douai-correction.pdf" dowload="" target="_blank"><p id="para4">Correction</p></a></li>
                    <li><a href="fr/1re/Douai/Explication_de_texte-2-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 2 :Le Mal</p></a></li>
                    <li><a href="fr/1re/Douai/Explication_de_texte-3-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 3 :Le Dormeur du val </p></a></li>
                    <li><a href="fr/1re/Douai/Explication_de_texte-4-Cahier_de_Douai.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 4 : La Maline </p></a></li>
