@@ -133,14 +133,31 @@
 
  <div id="Première" class="w3-container city" style="display:none">
    <p id="para1">Première</p>
-   <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-   <p id="para6">📁 Chapitre 1:</p>
+   <p id="para3"><a href="mat/1re/Programme_1.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/mat/Tle/Cahier_de_texte_1re.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
+   <button onclick="myFunction('Demo101')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 1:</p></button>
+      <div id="Demo101" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-    </ul>
+    </ul></div>
+    <button onclick="myFunction('Demo105')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 5:Probabilités conditionnelles et indépendance</p></button>
+      <div id="Demo105" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp5    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo109')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9:Variable aléatoire</p></button>
+      <div id="Demo109" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>
    <hr>
  </div>-->
 
