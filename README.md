@@ -158,7 +158,7 @@
        <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Variable aléatoire</p></a></li>
        <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Variable aléatoire</p></a></li>
     </ul></div>
-   <hr></div>
+   <hr>
  </div>
 
  <div id="Terminale" class="w3-container city" style="display:none">
