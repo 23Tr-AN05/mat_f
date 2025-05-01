@@ -172,7 +172,7 @@
     <ul>
        <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/TD-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   TD-Equations differentielles</p></a></li>
-       <li><a href="mat/Tle/ED/TD-equations_differentielles-correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
+       <li><a href="mat/Tle/ED/TD_correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>
     </ul>
    <p></p>
