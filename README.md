@@ -32,7 +32,7 @@
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
   <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir.<br> En particulier pour ceux qui se préparent au Baccalauréat.</p>
-    <div style="border: 1px solid black; padding: 10px;">
+   <!-- <div style="border: 1px solid black; padding: 10px;">
        <p>Pour 8 mars, je vous presente:</p>
         <p style="float:right"><img src="image/Germain.jpeg" /></p><p><center><font id="para34" style="color:red;">Sophie Germain (1776-1831)</font></center><br><font id="para34">Sophie Germain était une mathématicienne et physicienne française, pionnière dans un domaine dominé par les hommes à son époque. Malgré les obstacles liés à son sexe, elle a fait d'importantes contributions, notamment en théorie des nombres et en élasticité. Elle est surtout connue pour ses travaux sur le dernier théorème de Fermat, qu'elle a abordé avec des méthodes innovantes, et pour ses recherches en physique, notamment sur les vibrations des corps élastiques. Elle a reçu la reconnaissance de mathématiciens comme Carl Friedrich Gauss, qui lui a adressé des lettres de soutien. Sophie Germain a brisé des barrières et a ouvert la voie pour les femmes dans les sciences. </font></p>
       <div style="clear:both"></div>
@@ -43,7 +43,7 @@
       <br>
       Parallèlement à son enseignement, Marie-Louise Dubreil-Jacotin soutient sa thèse en 1932, intitulée "Recherches sur les groupes de transformations", sous la direction de Évariste Galois. Cette thèse marquait une étape importante dans le développement de la théorie des groupes et a permis à Dubreil-Jacotin de se faire un nom dans le milieu scientifique.
       <br>Sa carrière fut marquée par des contributions importantes aux mathématiques, et elle est restée une figure influente dans le développement des mathématiques en France, en particulier pour avoir ouvert la voie aux femmes dans ce domaine.</font></p>
-   <div style="clear:both"></div></div>
+   <div style="clear:both"></div></div>-->
   <br>
    <div id="center">
       <p id="para33">Si vous avez des questions vous pouvez envoyer un mail en choissisant la matière concernée. Je vous réponderai plutôt possible par mail ou vous pouvez consulter l'onglet "forum", où je mettrais certaines questions avec leur réponse. 
