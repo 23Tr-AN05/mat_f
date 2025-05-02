@@ -146,7 +146,7 @@
       <div id="Demo105" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/1re/Chp5/cours-Probabilité-1.pdf   " dowload="" target="_blank"><p id="para4">📄   Cours - Probabilité conditionnelle et indépendance    </p></a></li>
-       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   TD - Probabilité conditionnelle et indépendace </p></a></li>
+       <li><a href="mat/1re/Chp5/TD5.pdf " dowload="" target="_blank"><p id="para4">📄   TD - Probabilité conditionnelle et indépendace </p></a></li>
        <li><a href="mat/1re/Chp5    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Probabilité conditionnelle et indépendace </p></a></li>
        <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Probabilité conditionnelle et indépendace</p></a></li>
     </ul></div>
