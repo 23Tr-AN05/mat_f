@@ -141,15 +141,15 @@
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-    </ul></div>--
+    </ul></div>-->
     <button onclick="myFunction('Demo105')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 5 : Probabilités conditionnelles et indépendance</p></button>
       <div id="Demo105" class="w3-hide w3-container w3-light-grey"> 
      <ul>
-       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-       <li><a href="mat/1re/Chp5    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-    </ul></div>-->
+       <li><a href="mat/1re/Chp5/cours-Probabilité-1.pdf   " dowload="" target="_blank"><p id="para4">📄   Cours - Probabilité conditionnelle et indépendance    </p></a></li>
+       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   TD - Probabilité conditionnelle et indépendace </p></a></li>
+       <li><a href="mat/1re/Chp5    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Probabilité conditionnelle et indépendace </p></a></li>
+       <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Probabilité conditionnelle et indépendace</p></a></li>
+    </ul></div>
     <button onclick="myFunction('Demo109')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9 : Variable aléatoire</p></button>
       <div id="Demo109" class="w3-hide w3-container w3-light-grey"> 
      <ul>
