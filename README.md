@@ -267,22 +267,21 @@
                    <li><a href="fr/1re/Menteur/Explication_de_texte-5-Le_Menteur.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 5 :  </p></a></li>
                </ol></li> -->
         </ul> 
-      <!--<button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p></button>
-        <div id="Demo6" class="w3-hide w3-container w3-light-grey"> -->   
-         <p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p>
-        <ul>
+      <button onclick="myFunction('Demo6')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Alfred de Musset, <i>On ne badine pas avec l'amour</i></p></button>
+        <div id="Demo6" class="w3-hide w3-container w3-light-grey">   
+         <ul>
             <li><a href="fr/1re/Amour/Musset-on_ne_badine_pas_avec_amour-Parcours.pdf   " dowload="" target="_blank"><p id="para4">📜   Présentation de l'œuvre-S1</p></a></li>
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Biographie de l'auteur-2</p></a></li>-->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Structure de l'œuvre-S3</p></a></li> -->
             <!--<li><a href="fr/" dowland="" target="_blank"><p id="para4">📜   Quelques citations-S4</p></a></li> -->
-             <!--<li><p id="para4">📑  Explications de texte </p><ol type="A">
+            <li><p id="para4">📑  Explications de texte </p><ol type="A">
                    <li><a href="fr/1re/Amour/Explication_de_texte-1-On_ne_badine_pas_avec_l_amour.pdf" dowload="" target="_blank"><p id="para4">Explication de texte 1 : Acte I, Scène 2  </p></a></li>
                    <li><a href="fr/1re/Amour/Explication_de_texte-2-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 2 : Acte II, scène 1 </p></a></li>
                    <li><a href="fr/1re/Amour/Explication_de_texte-3-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 3 : Acte II, scène 5 </p></a></li>
                    <li><a href="fr/1re/Amour/Explication_de_texte-4-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 4 : Acte III, scène 3  </p></a></li>
                    <li><a href="fr/1re/Amour/Explication_de_texte-5-On_ne_badine_pas_avec_l_amour.pdf  " dowload="" target="_blank"><p id="para4">Explication de texte 5 : Acte III, scène 8  </p></a></li>
-               </ol></li> -->
-        </ul> 
+            </ol></li> 
+        </ul> </div>
         <!--<button onclick="myFunction('Demo7')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p></button>
         <div id="Demo7" class="w3-hide w3-container w3-light-grey"> -->  
         <p id="para2">📕- Nathalie Sarraute, <i>Pour un oui ou pour un non</i></p>
