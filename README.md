@@ -169,6 +169,54 @@
     <ul>
        <li><a href="mat/Tle/0/Chapitre_0.pdf" dowload="" target="_blank"><p id="para4">📄  Cours- La récurrence</p></a></li>
     </ul>
+    <button onclick="myFunction('Demo1001')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 1 : Les Suites</p></button>
+      <div id="Demo1001" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle/  " dowload="" target="_blank"><p id="para4">📄   Cours - Suites  </p></a></li>
+       <li><a href="mat/Tle/   " dowload="" target="_blank"><p id="para4">📄   TD - Les Suites</p></a></li>
+       <li><a href="mat/1re/   " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Les Suites</p></a></li>
+       <li><a href="mat/1re/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Les Suites</p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo1002')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 2 :Les Fonctions 1- Limites, Continuité, Valeurs intermédiaire  </p></button>
+      <div id="Demo1002" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle " dowload="" target="_blank"><p id="para4">📄   Cours - Les Fonctions 1  </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Les Fonctions 1 </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Les Fonctions 1</p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Les Fonctions 1</p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo1003')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 3 : Géométrie dans l’espace  </p></button>
+      <div id="Demo1003" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours - Géométrie dans l’espace   </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD -Géométrie dans l’espace  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Géométrie dans l’espace </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Géométrie dans l’espace  </p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo1004')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 4 : Les Fonctions 2 – Convexité , Exponentielle e , Logarithme </p></button>
+      <div id="Demo1004" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours - Les Fonctions 2  </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Les Fonctions 2</p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Les Fonctions 2</p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Les Fonctions 2</p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo1005')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 5 : Probabilité 1 : Loi Binomiale  </p></button>
+      <div id="Demo1005" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle  " dowload="" target="_blank"><p id="para4">📄   Cours - Loi Binomiale    </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Loi Binomiale  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Loi Binomiale </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Loi Binomiale </p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo1006')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 6 : Les Fonctions 3 : Intégrale </p></button>
+      <div id="Demo1006" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours -  Intégrale  </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Intégrale  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Intégrale </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices -  Intégrale</p></a></li>
+    </ul></div>
    <p id="para6">📁 Chapitre 7: Équations différentielles</p>
     <ul>
        <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
@@ -176,6 +224,38 @@
        <li><a href="mat/Tle/ED/TD_correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>
     </ul>
+    <button onclick="myFunction('Demo1008')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 8 : Probabilité 2 : Variables aléatoires </p></button>
+      <div id="Demo1008" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours -  Variables aléatoires  </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Variables aléatoires  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Variables aléatoires </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Variables aléatoires </p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo1009')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9 : Dénombrement  </p></button>
+      <div id="Demo1009" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours - Dénombrement    </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Dénombrement   </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Dénombrement   </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Dénombrement  </p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo10010')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 10 : Fonctions trigonométriques </p></button>
+      <div id="Demo10010" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours - Fonctions trigonométriques   </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Fonctions trigonométriques </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Fonctions trigonométriques  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Fonctions trigonométriques </p></a></li>
+    </ul></div>
+    <button onclick="myFunction('Demo10011')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 11 : Révisions  </p></button>
+      <div id="Demo10011" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours - Révisions    </p></a></li>
+       <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Révisions  </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Révisions   </p></a></li>
+       <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Révisions  </p></a></li>
+    </ul></div>
    <p></p>
    <hr>
  </div>
