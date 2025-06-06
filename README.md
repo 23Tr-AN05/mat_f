@@ -169,7 +169,7 @@
     <ul>
        <li><a href="mat/Tle/0/Chapitre_0.pdf" dowload="" target="_blank"><p id="para4">📄  Cours- La récurrence</p></a></li>
     </ul>
-    <button onclick="myFunction('Demo1001')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 1 : Les Suites</p></button>
+    <!--<button onclick="myFunction('Demo1001')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 1 : Les Suites</p></button>
       <div id="Demo1001" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/Tle/  " dowload="" target="_blank"><p id="para4">📄   Cours - Suites  </p></a></li>
@@ -216,7 +216,7 @@
        <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   TD - Intégrale  </p></a></li>
        <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Intégrale </p></a></li>
        <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices -  Intégrale</p></a></li>
-    </ul></div>
+    </ul></div>-->
    <p id="para6">📁 Chapitre 7: Équations différentielles</p>
     <ul>
        <li><a href="mat/Tle/ED/Cours-equations_differentielles.pdf" dowload="" target="_blank"><p id="para4">📄   Cours-Equations differentielles</p></a></li>
@@ -224,7 +224,7 @@
        <li><a href="mat/Tle/ED/TD_correction.pdf" dowload="" target="_blank"><p id="para4">📄   Correction-Equations differentielles</p></a></li>
        <li><a href="mat/Tle/ED/ED_complement_PC.pdf" dowload=""  target="_blank"><p id="para4">📄  Complément du cours - Physique-chimie </p></a></li>
     </ul>
-    <button onclick="myFunction('Demo1008')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 8 : Probabilité 2 : Variables aléatoires </p></button>
+    <!--<button onclick="myFunction('Demo1008')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 8 : Probabilité 2 : Variables aléatoires </p></button>
       <div id="Demo1008" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/Tle   " dowload="" target="_blank"><p id="para4">📄   Cours -  Variables aléatoires  </p></a></li>
@@ -256,7 +256,7 @@
        <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Révisions   </p></a></li>
        <li><a href="mat/Tle    " dowload="" target="_blank"><p id="para4">📄   Exercices - Révisions  </p></a></li>
     </ul></div>
-   <p></p>
+   <p></p>-->
    <hr>
  </div>
 
