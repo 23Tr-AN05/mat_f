@@ -272,8 +272,10 @@
    <button onclick="myFunction('Demo2')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📚- Programme officiel- Français pour  2024-2025</p></button>
      <div id="Demo2" class="w3-hide w3-container w3-light-grey">  
     <ul>
-        <li><a href="fr/1re/2024-2025-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale</p></a></li>
-        <li><p id="para4"><a href="fr/1re/2024-2025-T.pdf" dowload="" target="_blank">Les œuvres au programme de Première Technologique</a></p></li> 
+        <li><a href="fr/1re/2024-2025-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale 2024-2025</p></a></li>
+        <li><p id="para4"><a href="fr/1re/2024-2025-T.pdf" dowload="" target="_blank">Les œuvres au programme de Première Technologique 2024-2025</a></p></li> 
+        <li><a href="fr/1re/2025-2026-G.pdf" dowload="" target="_blank"><p id="para4">Les œuvres au programme de Première Générale 2025-2026</p></a></li>
+        <li><p id="para4"><a href="fr/1re/2025-2026-T.pdf" dowload="" target="_blank">Les œuvres au programme de Première Technologique 2025-2026</a></p></li> 
     </ul></div>
     <button onclick="myFunction('Demo4')" class="w3-button w3-block w3-white w3-left-align"><p id="para2">📘-Arthur RIMBAUD, <i>Cahier de Douai</i></p></button>
       <div id="Demo4" class="w3-hide w3-container w3-light-grey"> 
