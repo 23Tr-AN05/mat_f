@@ -55,6 +55,7 @@
      </p></div>
      <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
      <p id="para4"><a href="https://23tr-an05.github.io/filos/"><font style="color:#0000FF;"><u>Cours de Philosophie de Terminale</u></font></a></p>
+     <p id="para4"><a href="https://23tr-an05.github.io/PC/"><font style="color:#0000FF;"><u>Cours de Physique-Chimie</u></font></a></p>
      <p>--</p> 
     <hr>
    </div>
