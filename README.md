@@ -259,6 +259,9 @@
    <p></p>-->
    <hr>
  </div>
+ <div id="Français" class="w3-container city" style="display:none"> <div class="w3-container">
+   <center><p id="para1">Français- Première - BAC</p></center>
+   <center><a href="https://23tr-an05.github.io/francais/">Cliquez ici pour accèder aux cours de français</a></center>
 
 
 
