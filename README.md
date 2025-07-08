@@ -25,7 +25,7 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Seconde')">Seconde</button>-->
   <button class="w3-bar-item w3-button" onclick="openCity('Première')">Première G</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Terminale')">Terminale G</button>
-  <button class="w3-bar-item w3-button" onclick="openCity('Français')">Français Première-BAC</button>
+  <button class="w3-bar-item w3-button" onclick="openCity('Français')"><a href="https://23tr-an05.github.io/francais/">Français Première-BAC</a></button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
  </div>
