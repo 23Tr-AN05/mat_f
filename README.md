@@ -31,7 +31,9 @@
  </div>
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
-  <p id="para3">Sur ce site, vous trouverez les cours de mathématiques ainsi de français, qui peuvent vous servir.<br> En particulier pour ceux qui se préparent au Baccalauréat.</p>
+  <p id="para3">Je suis actuellement étudiant en deuxième année de Licence de Mathématiques, je me prépare également pour passer les concours de profesorat (en 2027).
+  <br>Sur ce site, vous trouverez des cours de Physique-Chimie qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.
+  </p>
    <!-- <div style="border: 1px solid black; padding: 10px;">
        <p>Pour 8 mars, je vous presente:</p>
         <p style="float:right"><img src="image/Germain.jpeg" /></p><p><center><font id="para34" style="color:red;">Sophie Germain (1776-1831)</font></center><br><font id="para34">Sophie Germain était une mathématicienne et physicienne française, pionnière dans un domaine dominé par les hommes à son époque. Malgré les obstacles liés à son sexe, elle a fait d'importantes contributions, notamment en théorie des nombres et en élasticité. Elle est surtout connue pour ses travaux sur le dernier théorème de Fermat, qu'elle a abordé avec des méthodes innovantes, et pour ses recherches en physique, notamment sur les vibrations des corps élastiques. Elle a reçu la reconnaissance de mathématiciens comme Carl Friedrich Gauss, qui lui a adressé des lettres de soutien. Sophie Germain a brisé des barrières et a ouvert la voie pour les femmes dans les sciences. </font></p>
