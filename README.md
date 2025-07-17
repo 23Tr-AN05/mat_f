@@ -28,11 +28,11 @@
   <button class="w3-bar-item w3-button" onclick="openCity('Français')"><a href="https://23tr-an05.github.io/francais/">Français Première-BAC</a></button>
   <!-- <button class="w3-bar-item w3-button" onclick="openCity('Info')">Informatique</button>
   <button class="w3-bar-item w3-button" onclick="openCity('Forum')">Forum</button>-->
- </div>
+ </div> 
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
-  <p id="para3">Je suis actuellement étudiant en deuxième année de Licence de Mathématiques, je me prépare également pour passer les concours de profesorat (en 2027).
-  <br>Sur ce site, vous trouverez des cours de Physique-Chimie qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.
+  <p id="para3">Je suis actuellement étudiant en deuxième année de Licence de Mathématiques, je me prépare également à passer les concours de profesorat (en 2027).
+  <br>Sur ce site, vous trouverez des cours de mathématique qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.
   </p>
    <!-- <div style="border: 1px solid black; padding: 10px;">
        <p>Pour 8 mars, je vous presente:</p>
