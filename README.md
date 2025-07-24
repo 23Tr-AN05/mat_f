@@ -32,7 +32,7 @@
  <div id="Ac" class="w3-container city">
   <p id="para2">Bienvenue</p>
   <p id="para3">Je suis actuellement étudiant en deuxième année de Licence de Mathématiques, je me prépare également à passer les concours de profesorat (en 2027).
-  <br>Sur ce site, vous trouverez des cours de mathématique qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.
+  <br>Sur ce site, vous trouverez des cours de mathématiques qui peuvent vous être utiles, notamment si vous préparez le Baccalauréat.
   </p>
    <!-- <div style="border: 1px solid black; padding: 10px;">
        <p>Pour 8 mars, je vous presente:</p>
@@ -112,12 +112,13 @@
  <div id="Tois" class="w3-container city" style="display:none">
    <p id="para1">Troisième</p>
    <p id="para3"><a href="mat/6e/Programme_3.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/3e/Edt.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-   <p id="para6">📁 Chapitre 1:</p>
+   <p id="para6">📁 Chapitre 1: Calcul Littéral (1) </p>
      <ul>
-       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
-       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
-       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
-       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Calcul Littéral - Développement et factorisation</p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD- Calcul Littéral</p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Calcul littéral</p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Exercices</p></a></li>
+       <li><a href="mat/3e/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Que retenir? </p></a></li>
    </ul>
    <hr>
  </div>
@@ -138,8 +139,34 @@
  <div id="Première" class="w3-container city" style="display:none">
    <p id="para1">Première</p>
    <p id="para3"><a href="mat/1re/Programme-1re.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Programme de l'année</u></font></a> et<a href="mat/1re/Cahier_de_texte_1re.pdf" dowload="" target="_blank"><font style="color:#0000FF;"><u> Cahier de texte</u></font></a> </p>
-   <!--<button onclick="myFunction('Demo101')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 1:</p></button>
+   <!--<button onclick="myFunction('Demo101')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 1: Seconde Degré </p></button>
       <div id="Demo101" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Seconde Degré </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-Seconde Degré </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Seconde Degré </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Seconde Degré </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo102')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 2: Les suites numériques </p></button>
+      <div id="Demo102" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo103')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 3: Dérivation (1)</p></button>
+      <div id="Demo103" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo104')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 4: Les suites arithmétiques</p></button>
+      <div id="Demo104" class="w3-hide w3-container w3-light-grey"> 
      <ul>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
@@ -154,6 +181,33 @@
        <li><a href="mat/1re/Chp5    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Probabilité conditionnelle et indépendace </p></a></li>
        <li><a href="mat/1re/Chp5/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Probabilité conditionnelle et indépendace</p></a></li>
     </ul></div>
+    <!--<button onclick="myFunction('Demo106')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 6: Les suites géometriques </p></button>
+      <div id="Demo106" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo107')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 7: Produit Scalaire </p></button>
+      <div id="Demo107" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo108')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 8: Dérivation (2) </p></button>
+      <div id="Demo108" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>-->
     <button onclick="myFunction('Demo109')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 9 : Variable aléatoire</p></button>
       <div id="Demo109" class="w3-hide w3-container w3-light-grey"> 
      <ul>
@@ -162,6 +216,31 @@
        <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Variable aléatoire</p></a></li>
        <li><a href="mat/1re/Chp9/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Variable aléatoire</p></a></li>
     </ul></div>
+    <!--<button onclick="myFunction('Demo1010')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 10: Trigonométrie </p></button>
+      <div id="Demo1010" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo1011')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 11: Fonction exponentielle</p></button>
+      <div id="Demo1011" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>--
+    !--<button onclick="myFunction('Demo1012')" class="w3-button w3-block w3-white w3-left-align"><p id="para6">📁 Chapitre 12: Géometrie repérée </p></button>
+      <div id="Demo1012" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD-</p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   </p></a></li>
+    </ul></div>-->
    <hr>
  </div>
 
