@@ -147,8 +147,17 @@
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   TD-Seconde Degré </p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Seconde Degré </p></a></li>
        <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Seconde Degré </p></a></li>
-    </ul></div>--
-    !--<button onclick="myFunction('Demo102')" class="w3-button w3-block w3-white w3-left-align">
+    </ul></div>-->
+   <button onclick="myFunction('Demo101')" class="w3-button w3-block w3-white w3-left-align">
+     <p id="para6">📁 Chapitre 1: Seconde Degré </p></button>
+      <div id="Demo101" class="w3-hide w3-container w3-light-grey"> 
+     <ul>
+       <li><a href="mat/1re/Chp1/polynome-cours.pdf    " dowload="" target="_blank"><p id="para4">📄   Seconde Degré </p></a></li>
+       <li><a href="mat/1re/Chp1/TD1.pdf    " dowload="" target="_blank"><p id="para4">📄   TD-Seconde Degré </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Correction-TD- Seconde Degré </p></a></li>
+       <li><a href="mat/1re/Chp1/    " dowload="" target="_blank"><p id="para4">📄   Exercices - Seconde Degré </p></a></li>
+    </ul></div>
+    <!--<button onclick="myFunction('Demo102')" class="w3-button w3-block w3-white w3-left-align">
      <p id="para6">📁 Chapitre 2: Les suites numériques </p></button>
       <div id="Demo102" class="w3-hide w3-container w3-light-grey"> 
      <ul>
