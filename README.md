@@ -56,7 +56,7 @@
        (ne%20changez%20pas%20l'objet%20du%20mail).%0ADans%20l'onglet:%0ANom%20du%20fichier:%0AErreur:">Je signale une erreur!</a>
      </p></div>
      <p><font style="color:red"><b>L'onglet Forum</b> est actuellement <b>vide</b>, donc l'onglet est désactivé temporairement (je l'activerai dès lors que j'aurais une question posée)</font></p>
-     <p id="para4"><a href="https://23tr-an05.github.io/filos/"><font style="color:#0000FF;"><u>Cours de Philosophie de Terminale</u></font></a></p>
+     <p id="para4"><a href="https://23tr-an05.github.io/filos/"  id="protectedLink"><font style="color:#0000FF;"><u>Cours de Philosophie de Terminale</u></font></a></p>
      <p id="para4"><a href="https://23tr-an05.github.io/PC/"><font style="color:#0000FF;"><u>Cours de Physique-Chimie</u></font></a></p>
      <p>--</p> 
     <hr>
@@ -375,6 +375,7 @@
  
 
  <!--🗂📙📗📘📚📕📔📒📝💻📓🖋️-->
+ <!--<a href="fichier-protege.pdf" id="protectedLink">Accéder au fichier protégé</a>-->
 
  <script>
  function openCity(cityName) {
@@ -400,3 +401,24 @@
   }
  }
  </script>
+  
+ 
+
+ <script>
+ document.getElementById('protectedLink').addEventListener('click', function(e){
+   e.preventDefault();
+   const username = prompt("Nom d'utilisateur :");
+   if(username === null) return; // l'utilisateur a annulé
+   const password = prompt("Mot de passe :");
+   if(password === null) return;
+
+   // Vérification côté client (insecure)
+   if(username === "deodat" && password === "kant") {
+     // accès autorisé : rediriger vers la ressource
+     window.location.href = this.href;
+   } else {
+     alert("Nom d'utilisateur ou mot de passe incorrect.");
+   }
+ });
+</script>
+  
